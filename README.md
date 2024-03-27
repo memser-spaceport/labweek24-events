@@ -4,7 +4,7 @@ LabWeek is a decentralized conference convened by network teams in Protocol Las.
 
 This year, there are 3 LabWeeks focused on Public Goods Funding, AI and Web3. Join us for a week of summits, research-focused seminars, engineering workshops, unconferences, and happy hours that are open to anyone interested in learning more.
 
-We are using this github repository <**link to be hyperlinked**\> to coordinate event listings.
+We are using this github repository [this github repository](https://github.com/memser-spaceport/labweek24-events) to coordinate event listings.
 
 ## LabWeek24-Public Goods - Location & Date
 
@@ -30,9 +30,9 @@ We encourage you to submit your events via a pull request on github, to do so..
 
 3\. Create a branch like event-&lt;your-event-filename&gt;, for eg. 'event-Funding-the-Commons', 'event-Opening-Party'
 
-4\. Place the finished file in the path as mentioned: /events/&lt;your-event-file-name&gt;.json
+4\. Place the finished file in the path as mentioned: /events/labweek-24/pg/&lt;your-event-file-name&gt;.json
 
-5\. Create a PR from this branch to 'develop' branch
+5\. Create a PR from this branch to 'main' branch
 
 6\. The Labweek team will review and merge your event into the website
 
