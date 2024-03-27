@@ -6,11 +6,12 @@
   "host": "Funding the Commons",
   "host_logo": "https://pl-labweek.s3.us-west-1.amazonaws.com/24/pg/logos/ftc_logo.png",
   "co_hosts": [
+  ],
+  "description": "Please join us for an invite-only dinner to thank the speakers and sponsors for Funding the Commons!",
+  "tags": [
     "AI",
     "PGF"
   ],
-  "description": "Please join us for an invite-only dinner to thank the speakers and sponsors for Funding the Commons!",
-  "tags": [],
   "start_date": "2024-04-13T02:00:00.000Z",
   "end_date": "2024-04-13T05:00:00.000Z",
   "access_type": "CUSTOM_REGISTRATION",
