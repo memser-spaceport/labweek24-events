@@ -1,0 +1,30 @@
+{
+    "event_contact_name": "Samuel Klein",
+    "event_contact_email": "meta.sj@gmail.com",
+    "event_name": "Wiki AI Day",
+    "host": "",
+    "host_logo": "",
+    "co_hosts": [
+    ],
+    "description": "",
+    "tags": [
+        "AI",
+        "DeSci"
+    ],
+    "start_date": "2024-04-15T16:00:00.000Z",
+    "end_date": "2024-04-16T00:00:00.000Z",
+    "access_type": "CUSTOM_REGISTRATION",
+    "access_option": "OPEN",
+    "format": "IN-PERSON",
+    "location": "Gray Lab",
+    "location_url": "",
+    "seat_count": "1-50",
+    "website_link": "",
+    "agenda": {
+      "sessions": []
+    },
+    "sponsors": [
+    ],
+    "is_featured": true,
+    "conference": "labweek-24-pg"
+  }
