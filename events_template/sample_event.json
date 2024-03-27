@@ -1,0 +1,93 @@
+{
+  "event_contact_name": "<valid name>",           #mandatory
+  "event_contact_email": "<valid email>",         #mandatory
+  "event_name": "",                               #mandatory
+  "event_logo": "",                               # a static url of the logo, may be s3 or ipfs
+  "secondary_contacts": [
+      {
+        "name": "",
+        "email": ""
+      }
+  ]
+  "host": "Humans",                               #mandatory
+  "host_logo": "",
+  "co_hosts": [
+     {
+       "name": "",
+       "logo": ""                                 # Same rule as event or host logo
+     }
+   ],
+  "description": "",
+  "tags": [
+    "Talks & Presentation",
+    "Workshop",
+    "humans",
+     <any custom tag>
+  ],
+  "start_date": "2023-11-14T02:00:00.000Z",        # Sample format in UTC
+  "end_date": "2023-11-16T14:00:00.000Z",          # Sample format in UTC
+  "access_type": "",                               # One of 'CUSTOM_REGISTRATION', 'IN-HOUSE_REGISTRATION'
+  "access_option": "",                             # One of 'OPEN', 'INVITE', 'PAID'
+  "format": "",                                    # One of 'HYBRID', 'VIRTUAL', 'IN-PERSON'
+  "location": "",                                  # any valid venue name
+  "meeting_platform": "",                          # zoom, google etc
+  "meeting_link": "",
+  "seat_count": "1-50",                            # any range like 1-50, 100-200 etc
+  "registration_link": "",
+  "website_link": "",
+  "agenda": {
+    "sessions": [
+       {
+          name: '',
+          description: '',                          # optional
+          start_date: ,                             # Sample format in UTC
+          end_date:                                 # Sample format in UTC (optional)
+       }
+     ]
+  },
+  "sponsors": [
+     "name" "",
+     "logo" ""                                      # Same rule as event or host logo
+   ],
+  "is_featured": ,                                  # <true/false>,
+  "conference": "labweek-23",                       # for now this is the only value supported
+  "contact_infos": {
+    "twitter": "<link/handle>",
+    "telegram": "",
+    "discord": "",
+    "bluesky": "",
+    "mastadon": ""
+  }
+  "nft_ticketing": {                                # if you choose access_type as IN-HOUSE_REGISTRATION, else not needed
+    "host_wallet_address": "",                      # valid wallet address
+    "verifier_wallet_addresses": [],                # Comma separated valid wallet addresses
+    "custom_event_URL": "",                         # Your custom url path for your event registration page, must be unique
+    "pattern": 1,                                   # 1 - 4
+    "bg_URL": "",                                   # In case you wish to have custom image for your registration page instead of our pattern
+    "hide_event_logo": true/false                   # Whether to show your logo image on top of background image, default - false  
+    "additional_fields": [                          # The commonly used fields apart from default name and email like company, job_title, twitter, wallet_address, dietary_preferences, communication_consent etc
+      {                           
+      "name": "",                                   # Valid string, avoid spaces
+      "key": "",                                    # Avoid spaces, use underscores as joiners
+      "label": "",                                  # Display text to be used in registration form
+      "placeholder_text": "",                       # Placeholder text for the input
+      "alt": "",                                    # The alt text to be used in cases like csv export, leave it blank to use same as label
+      "order": 0...N,                               # Valid integer to arrange the fields in form
+      "value": "",                                  # 0 - Off, 1 - optional,  2 - required
+      "type: ""                                     # TEXT or CHECKBOX
+      }
+    ],
+    "custom_fields": [                              # Custom fields you want specific to your event like age, location etc
+      {                               
+      "name": "",                                   # Valid string, avoid spaces
+      "key": "",                                    # Avoid spaces, use underscores as joiners
+      "label": "",                                  # Display text to be used in registration form
+      "placeholder_text": "",                       # Placeholder text for the input
+      "alt": "",                                    # The alt text to be used in cases like csv export, leave it blank to use same as label
+      "order": 0...N,                               # Valid integer to arrange the fields in form
+      "value": "",                                  # 0 - Off, 1 - optional,  2 - required
+      "type: ""                                     # TEXT or CHECKBOX
+     }
+    ]
+  }
+}
