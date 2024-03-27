@@ -1,0 +1,32 @@
+{
+  "event_contact_name": "Orin Ayodele",
+  "event_contact_email": "orin@fundingthecommons.io",
+  "event_name": "Earth Commons",
+  "event_logo": "https://pl-labweek.s3.us-west-1.amazonaws.com/24/pg/logos/earthcommons_logo.png",
+  "host": "Earth Commons",
+  "host_logo": "https://pl-labweek.s3.us-west-1.amazonaws.com/24/pg/logos/earthcommons_logo.png",
+  "co_hosts": [
+  ],
+  "description": "Earth Commons builds bridges between climate entrepreneurs, academics, technologists, funders, NGOs, and international public institutions to explore the funding and governance of nature’s commons.",
+  "tags": [
+    "Sustainability",
+    "PGF"
+  ],
+  "priority": 5,
+  "start_date": "2024-04-13T16:00:00.000Z",
+  "end_date": "2024-04-15T01:30:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "The David Brower Center",
+  "location_url": "https://www.google.com/maps/place/Brower+Center/@37.8694389,-122.2664611,15z/data=!4m6!3m5!1s0x80857e9d9bdf2f6f:0x2efec95e16037f2!8m2!3d37.8694389!4d-122.2664611!16s%2Fm%2F0k19819?entry=ttu",
+  "seat_count": "1-50",
+  "website_link": "https://fundingthecommons.io/earth-commons-san-francisco-bay-area-2024",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [
+  ],
+  "is_featured": true,
+  "conference": "labweek-24-pg"
+}

@@ -1,0 +1,30 @@
+{
+    "event_contact_name": "Ryo",
+    "event_contact_email": "spaceport-admin@protocol.ai",
+    "event_name": "PL 10 Year Anniversary",
+    "host": "Protocol Labs",
+    "host_logo": "https://pl-labweek.s3.us-west-1.amazonaws.com/24/pg/logos/protocol_labs.jpeg",
+    "co_hosts": [
+    ],
+    "description": "Celebrating Protocol Labs' 10th Anniversary - a decade of driving breakthroughs in computing to push humanity forward.",
+    "tags": [
+        "Meetup"
+    ],
+    "priority": 1,
+    "start_date": "2024-04-17T02:00:00.000Z",
+    "end_date": "2024-04-17T05:00:00.000Z",
+    "access_type": "CUSTOM_REGISTRATION",
+    "access_option": "INVITE",
+    "format": "IN-PERSON",
+    "location": "Exploratorium",
+    "location_url": "https://maps.app.goo.gl/LmwVDViavKrReYXY8",
+    "seat_count": "1-50",
+    "website_link": "",
+    "agenda": {
+      "sessions": []
+    },
+    "sponsors": [
+    ],
+    "is_featured": false,
+    "conference": "labweek-24-pg"
+  }

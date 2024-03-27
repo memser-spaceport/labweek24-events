@@ -1,0 +1,31 @@
+{
+    "event_contact_name": "Tony Lai",
+    "event_contact_email": "tony@codex.stanford.edu",
+    "event_name": "Institutional Ecologies",
+    "event_logo": "https://pbs.twimg.com/profile_images/439145935352758272/8P4PPOz-_400x400.jpeg",
+    "host": "Stanford CodeX Blockchain Group",
+    "host_logo": "https://pbs.twimg.com/profile_images/439145935352758272/8P4PPOz-_400x400.jpeg",
+    "co_hosts": [
+    ],
+    "description": "Institutional Ecologies bridges the development of modern technologies wtih holistic, complex systems, towards nature-based solutions.",
+    "tags": [
+        "Sustainability"
+    ],
+    "priority":0,
+    "start_date": "2024-04-10T16:30:00.000Z",
+    "end_date": "2024-04-10T23:30:00.000Z",
+    "access_type": "CUSTOM_REGISTRATION",
+    "access_option": "OPEN",
+    "format": "IN-PERSON",
+    "location": "Stanford Law School",
+    "location_url": "https://maps.app.goo.gl/EBH15THdTvLwK1PC8",
+    "seat_count": "1-50",
+    "website_link": "https://docs.google.com/presentation/d/e/2PACX-1vR6ezXX7AGc7cs3i4AviloUaq5iAbYUN-osoIP0c7TM1noZGwHwhijCn1dJcdYCfaZ2rHMFndZJUP9c/pub?start=true&loop=true&delayms=10000&slide=id.g11fafbb43b7_0_0",
+    "agenda": {
+      "sessions": []
+    },
+    "sponsors": [
+    ],
+    "is_featured": false,
+    "conference": "labweek-24-pg"
+  }
