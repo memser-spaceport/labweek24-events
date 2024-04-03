@@ -1,26 +1,26 @@
 {
   "event_contact_name": "David Casey",
   "event_contact_email": "david@fundingthecommons.io",
-  "event_name": "Funding the Commons Speaker and Sponsor Dinner",
+  "event_name": "Funding the Commons Party",
   "event_logo": "https://pl-labweek.s3.us-west-1.amazonaws.com/24/pg/logos/ftc_logo.png",
   "host": "Funding the Commons",
   "host_logo": "https://pl-labweek.s3.us-west-1.amazonaws.com/24/pg/logos/ftc_logo.png",
   "co_hosts": [
   ],
-  "description": "Please join us for an invite-only dinner to thank the speakers and sponsors for Funding the Commons!",
+  "description": "Please join us for the Funding the Commons Party!",
   "tags": [
     "AI",
     "PGF"
   ],
-  "start_date": "2024-04-13T02:00:00.000Z",
-  "end_date": "2024-04-13T05:00:00.000Z",
+  "start_date": "2024-04-14T02:00:00.000Z",
+  "end_date": "2024-04-14T07:00:00.000Z",
   "access_type": "CUSTOM_REGISTRATION",
-  "access_option": "INVITE",
+  "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "Gather",
-  "location_url": "https://g.co/kgs/uZztoau",
+  "location": "Gray Area",
+  "location_url": "https://maps.app.goo.gl/Auomf5vuB2hXmcCU8",
   "seat_count": "1-50",
-  "website_link": "",
+  "website_link": "https://fundingthecommons.io/san-francisco-bay-area-2024",
   "agenda": {
     "sessions": []
   },
