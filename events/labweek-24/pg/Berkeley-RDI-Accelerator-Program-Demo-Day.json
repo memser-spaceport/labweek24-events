@@ -1,21 +1,21 @@
 {
   "event_contact_name": "Jocelyn Weber",
   "event_contact_email": "jweberphipps@berkeley.edu",
-  "event_name": "Berkeley RDI Accelerator Program Demo Day",
-  "event_logo": "https://pl-labweek.s3.us-west-1.amazonaws.com/24/pg/logos/rdi_blue.png",
-  "host": "Funding the Commons",
-  "host_logo": "https://pl-labweek.s3.us-west-1.amazonaws.com/24/pg/logos/ftc_logo.png",
+  "event_name": "Blockchain Innovation Forum & Xcelerator Demo Day",
+  "event_logo": "",
+  "host": "Berkeley Blockchain Xcelerator & Blockchain at Berkeley with Berkeley RDI",
+  "host_logo": "https://pl-labweek.s3.us-west-1.amazonaws.com/24/pg/logos/rdi_blue.png",
   "co_hosts": [
   ],
-  "description": "The Blockchain Innovation Forum, hosted by the Berkeley Blockchain Xcelerator & Blockchain at Berkeley, with support from Berkeley RDI, and planned in connection with the Funding the Commons SF Bay Area event on April 13-14th, invites thought leaders, venture capital, educators & innovators to share insights with our large Berkeley and broader community.",
+  "description": "​The Blockchain Innovation Forum, hosted by the Berkeley Blockchain Xcelerator & Blockchain at Berkeley, with support from Berkeley RDI, and planned in connection with the Funding the Commons SF Bay Area event on April 13-14th, invites thought leaders, venture capital, educators & innovators to share insights with our large Berkeley and broader community.",
   "tags": [
-    "Web3"
+    "Blockchain"
   ],
   "start_date": "2024-04-12T20:00:00.000Z",
   "end_date": "2024-04-13T01:00:00.000Z",
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
-  "format": "IN-PERSON",
+  "format": "HYBRID",
   "location": "Berkeley",
   "location_url": "https://maps.app.goo.gl/5FVHhGNcSUkV258v8",
   "seat_count": "1-50",
