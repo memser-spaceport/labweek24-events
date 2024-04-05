@@ -26,7 +26,7 @@
   "agenda": {
     "sessions": []
   },
-  "is_featured": ,                                 
+  "is_featured": true,                                 
   "conference": "labweek-24-pg",                    
   "contact_infos": {
     "twitter": "",
