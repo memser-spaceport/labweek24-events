@@ -5,12 +5,7 @@
   "event_logo": "https://cloud.borrowlucid.com/index.php/s/RDXSYy4KdMHQBdz",                              
   "host": "Chones",                              
   "host_logo": "https://cloud.borrowlucid.com/index.php/s/MwroqweWCad2W5k",                               
-  "co_hosts": [                                   
-     {
-       "name": "",
-       "logo": ""                                 
-     }
-   ],
+  "co_hosts": [],
   "description": "Spring 2024, intentional humans gather in the Bay Area for events around Ecologies and the Commons, and how to better govern and fund what really matters to all of us that share this planet, Mother Earth.
 
 **Please donate ETH on Optimism mainnet** to this crowdfund that will be distributed to projects for local ecologies and commons.",
@@ -31,8 +26,7 @@
   "seat_count": "",                            
   "website_link": "https://app.yeet.haus/#/molochV3/0xa/0xb1a7c7ac34d9ed24ebf23af29715aacd89603cb5",
   "agenda": {
-    "sessions": [                                           
-     ]
+    "sessions": []
   },
   "is_featured": ,                                 
   "conference": "labweek-24-pg",                    
