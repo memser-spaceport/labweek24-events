@@ -1,25 +1,25 @@
 {
     "event_contact_name": "Samuel Klein",
     "event_contact_email": "meta.sj@gmail.com",
-    "event_name": "Wiki AI Day",
+    "event_name": "Wiki x AI Hackathon",
     "host": "",
     "host_logo": "",
     "co_hosts": [
     ],
-    "description": "",
+    "description": "Brainstorm and develop AI tools on Wikipedia and other wikis, used for drafting, curating, summarizing and illustrating articles, and tools for generating books, media, and physical object. Learn about how to work with Wikidata and Wikipedia APIs in your tools. Make hyperstitions tangible with simulated internets and ecosystems.",
     "tags": [
         "AI",
         "DeSci"
     ],
-    "start_date": "2024-04-15T17:00:00.000Z",
-    "end_date": "2024-04-15T23:00:00.000Z",
+    "start_date": "2024-04-15T13:30:00.000Z",
+    "end_date": "2024-04-15T20:30:00.000Z",
     "access_type": "CUSTOM_REGISTRATION",
     "access_option": "OPEN",
     "format": "IN-PERSON",
-    "location": "Gray Lab",
-    "location_url": "",
+    "location": "Gray Area/Grand Theatre",
+    "location_url": "https://maps.app.goo.gl/UB4umbhh7uYfpLTP7",
     "seat_count": "1-50",
-    "website_link": "",
+    "website_link": "https://lu.ma/k84uw71w",
     "agenda": {
       "sessions": []
     },
