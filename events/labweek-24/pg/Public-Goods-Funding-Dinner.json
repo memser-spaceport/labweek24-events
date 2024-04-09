@@ -1,0 +1,27 @@
+{
+  "event_contact_name": "Raymond Cheng",
+  "event_contact_email": "ray@karibalabs.co",
+  "event_name": "Public Goods Funding Dinner",
+  "host": "Kariba Labs",
+  "host_logo": "https://pl-labweek.s3.us-west-1.amazonaws.com/24/pg/logos/Kariba-labs.png",
+  "co_hosts": [],
+  "description": "Join us for a small private dinner to discuss how we can collaborate on public goods funding experiments across various industries in a way that is positive sum for all. We'll debrief from the FTC conference and chat about what new things we can do together!",
+  "tags": [
+    "Dinner"
+  ],
+  "start_date": "2024-04-15T02:00:00.000Z",
+  "end_date": "2024-04-15T05:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "INVITE",
+  "format": "IN-PERSON",
+  "location": "Register to see address",
+  "location_url": "https://lu.ma/mex4mhu2",
+  "seat_count": "1-50",
+  "website_link": "https://lu.ma/mex4mhu2",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-24-pg"
+}
