@@ -1,7 +1,7 @@
 {
     "event_contact_name": "Jeffrey Joh",
     "event_contact_email": "jeffreyjoh@gmail.com",
-    "event_name": "DeSci meetup",
+    "event_name": "DeSci SF: Tax Day Social",
     "event_logo": "https://pl-labweek.s3.us-west-1.amazonaws.com/24/pg/logos/DeSci+Meetup.jpeg",
     "host": "",
     "host_logo": "",
@@ -16,10 +16,10 @@
     "access_type": "CUSTOM_REGISTRATION",
     "access_option": "OPEN",
     "format": "IN-PERSON",
-    "location": "TBD",
-    "location_url": "",
+    "location": "Gray Area/Grand Theatre",
+    "location_url": "https://maps.app.goo.gl/UB4umbhh7uYfpLTP7",
     "seat_count": "1-50",
-    "website_link": "",
+    "website_link": "https://lu.ma/oj8s5tm8",
     "agenda": {
       "sessions": []
     },
