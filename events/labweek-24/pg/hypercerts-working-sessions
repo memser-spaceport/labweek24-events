@@ -1,0 +1,56 @@
+
+{
+  "event_contact_name": "Holke Brammer",           # mandatory
+  "event_contact_email": "holke@hypercerts.org",         # mandatory
+  "event_name": "Hypercerts working sessions",                               # mandatory
+  "event_logo": "https://imagedelivery.net/bRzpE2_yvXyRL0k6jCSFRQ/5db151e2-b52b-41a1-2623-7bfe6bf64d00/public",                               # a static url (public accessible) of the logo, may be s3 or ipfs or anything else
+  "host": "Hypercerts Foundation",                               # mandatory
+  "host_logo": "https://imagedelivery.net/bRzpE2_yvXyRL0k6jCSFRQ/5db151e2-b52b-41a1-2623-7bfe6bf64d00/public",                                # a static url (public accessible) of the logo, may be s3 or ipfs or anything else
+  "co_hosts": [                                   # optional
+     {
+       "name": "Protocol Labs",
+       "logo": "https://pbs.twimg.com/profile_images/1584119257805324289/q0iMQmxI_400x400.png"                                 # Same rule as event or host logo, in case of unavailability of Co-hosts information do not add "name" and "logo" (including the braces {})
+     }
+   ],
+  "description": "Join the Hypercerts Foundation and Protocol Labs in SF for an open discussion and working session on hypercerts – to advance our mission to fund and reward impact. Agenda: (1) Arrival from 10:30am to 11:00am. (2) Welcome and introduction from ​11:00am to 11:15am. (3) Working session and open discussion from ​11:15am to 12:30pm.",
+  "tags": [
+    "Workshop",                                    # Sample tag
+    "hypercert",
+    "impact funding"
+    <any custom tag>
+  ],
+  "start_date": "2023-04-15T17:30:00.000Z",        # Sample format in UTC
+  "end_date": "2023-04-15T19:30:00.000Z",          # Sample format in UTC
+  "access_type": "CUSTOM_REGISTRATION",            # mandatory and do not change the value
+  "access_option": "open",                             # One of 'OPEN', 'INVITE', 'PAID'
+  "format": "IN-PERSON",                                    # One of 'HYBRID', 'VIRTUAL', 'IN-PERSON'
+  "location": "Gray Area",                                  # any valid venue name
+  "location_url": "https://maps.app.goo.gl/UB4umbhh7uYfpLTP7",                              # google map URL of the above mentioned venue
+  "seat_count": "1-50",                            # any range like 1-50, 100-200 etc
+  "website_link": "https://lu.ma/pt0mwlvi",
+  "agenda": {
+    "sessions": [                                       # In case of unavailability of the sessions information do not add "name", "description", "start_date" and "logo" (including the braces {})
+      {
+        "name": "Arrival",
+        "start_date": "2024-04-15T17:30:00.000Z",
+        "end_date": "2024-04-15T18:00:00.000Z"
+      },
+      {
+        "name": "Welcome and introduction",
+        "start_date": "2024-04-15T18:00:00.000Z",
+        "end_date": "2024-04-15T18:15:00.000Z"
+      },
+      {
+        "name": "Working sessions and open discussions",
+        "start_date": "2024-04-15T18:15:00.000Z",
+        "end_date": "2024-04-15T19:30:00.000Z"
+      }
+     ]
+  },
+  "is_featured": false,                                  # <true/false>,
+  "conference": "labweek-24-pg",                    # for now this is the only value supported - mandatory
+  "contact_infos": {
+    "twitter": "@hypercerts",
+    "telegram": "@holkexyz"
+  }
+}
