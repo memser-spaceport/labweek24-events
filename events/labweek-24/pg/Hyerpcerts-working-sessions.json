@@ -47,5 +47,13 @@
     },
     "sponsors": [],
     "is_featured": false,
-    "conference": "labweek-24-pg"
+    "conference": "labweek-24-pg",
+    "contact_infos": {
+      "twitter": [
+        "https://twitter.com/hypercerts"
+      ],
+      "telegram": [
+        "https://t.me/holkexyz"
+      ]
+    }
   }
