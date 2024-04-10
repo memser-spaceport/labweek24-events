@@ -22,7 +22,242 @@
   "seat_count": "1-50",
   "website_link": "https://fundingthecommons.io/earth-commons-san-francisco-bay-area-2024",
   "agenda": {
-    "sessions": []
+    "sessions": [
+      {
+        "name": "Doors Opens",
+        "description": "Coffee and a light breakfast will be available.",
+        "start_date": "2024-04-13T16:00:00.000Z",
+        "end_date": "2024-04-13T17:00:00.000Z"
+      },
+      {
+        "name": "Welcome & Introducing Earth Commons",
+        "description": "Orin Ayodele",
+        "start_date": "2024-04-13T17:00:00.000Z",
+        "end_date": "2024-04-13T17:30:00.000Z"
+      },
+      {
+        "name": "The Role of Agriculture and Soils in Planetary Health",
+        "description": "Will Gardiner",
+        "start_date": "2024-04-13T17:30:00.000Z",
+        "end_date": "2024-04-13T17:50:00.000Z"
+      },
+      {
+        "name": "Talk",
+        "description": "Phil Dillard",
+        "start_date": "2024-04-13T17:50:00.000Z",
+        "end_date": "2024-04-13T18:20:00.000Z"
+      },
+      {
+        "name": "Inclusive Innovation in Climate Tech",
+        "description": "Courtney Savie Lawrence",
+        "start_date": "2024-04-13T18:20:00.000Z",
+        "end_date": "2024-04-13T18:40:00.000Z"
+      },
+      {
+        "name": "Bridging Technology and Tradition: White Buffalo Woman x Web 3.0",
+        "description": "Jessica Abkarian",
+        "start_date": "2024-04-13T18:40:00.000Z",
+        "end_date": "2024-04-13T19:00:00.000Z"
+      },
+      {
+        "name": "Simulating Climate with Large-Scale Datasets",
+        "description": "Jerry Lin",
+        "start_date": "2024-04-13T19:00:00.000Z",
+        "end_date": "2024-04-13T19:20:00.000Z"
+      },
+      {
+        "name": "Evolution of Climate-Positive Tokenization Initiatives",
+        "description": "David Vorick and Zach Lefler",
+        "start_date": "2024-04-13T19:20:00.000Z",
+        "end_date": "2024-04-13T19:40:00.000Z"
+      },
+      {
+        "name": "Talk",
+        "description": "Jack Manning Bancroft",
+        "start_date": "2024-04-13T19:40:00.000Z",
+        "end_date": "2024-04-13T20:00:00.000Z"
+      },
+      {
+        "name": "Lunch Break",
+        "description": "",
+        "start_date": "2024-04-13T20:00:00.000Z",
+        "end_date": "2024-04-13T21:00:00.000Z"
+      },
+      {
+        "name": "Understanding Climate Change through Modeling and Data Science",
+        "description": "Bill Collins",
+        "start_date": "2024-04-13T21:00:00.000Z",
+        "end_date": "2024-04-13T21:30:00.000Z"
+      },
+      {
+        "name": "AI Tech Trees for Ambitious Futures",
+        "description": "Allison Duettman",
+        "start_date": "2024-04-13T21:30:00.000Z",
+        "end_date": "2024-04-13T21:50:00.000Z"
+      },
+      {
+        "name": "Talk",
+        "description": "Matt Prewitt",
+        "start_date": "2024-04-13T21:50:00.000Z",
+        "end_date": "2024-04-13T22:10:00.000Z"
+      },
+      {
+        "name": "Drawing on Indigenous Wisdom for Adaptive Economic Models",
+        "description": "Atossa Soltani",
+        "start_date": "2024-04-13T22:10:00.000Z",
+        "end_date": "2024-04-13T22:30:00.000Z"
+      },
+       {
+        "name": "Ecology Toward Repairing Broken Systems",
+        "description": "Lauren Turk and Aria McLauchlan",
+        "start_date": "2024-04-13T22:30:00.000Z",
+        "end_date": "2024-04-13T23:10:00.000Z"
+      },
+        {
+        "name": "Funding the Transition to Regenerative Bioregional Economies through Bioregional Financing Facilities",
+        "description": "Samantha Power",
+        "start_date": "2024-04-13T23:10:00.000Z",
+        "end_date": "2024-04-13T23:30:00.000Z"
+      },
+        {
+        "name": "Funding Pathways for Open Source and Sustainable Impact",
+        "description": "Angelo Kalaw",
+        "start_date": "2024-04-13T23:30:00.000Z",
+        "end_date": "2024-04-13T23:50:00.000Z"
+      },
+        {
+        "name": "Learning from Mycelial Networks for Designing Resilient Interdependence",
+        "description": "Gregory Landua",
+        "start_date": "2024-04-13T23:50:00.000Z",
+        "end_date": "2024-04-14T00:10:00.000Z"
+      },
+        {
+        "name": "Impactful Capital Allocation in Climate, Ecology and Biodiversity",
+        "description": "Matthew Stotts",
+        "start_date": "2024-04-14T00:10:00.000Z",
+        "end_date": "2024-04-14T00:30:00.000Z"
+      },
+        {
+        "name": "Open Innovation for Planetary Thriving",
+        "description": "Dr. Stuart Cowen",
+        "start_date": "2024-04-14T00:30:00.000Z",
+        "end_date": "2024-04-14T01:00:00.000Z"
+      },
+        {
+        "name": "Doors Open",
+        "description": "Coffee and a light breakfast will be available.",
+        "start_date": "2024-04-14T16:00:00.000Z",
+        "end_date": "2024-04-14T17:00:00.000Z"
+      },
+        {
+        "name": "Welcome",
+        "description": "Beth McCarthy",
+        "start_date": "2024-04-14T17:00:00.000Z",
+        "end_date": "2024-04-14T17:10:00.000Z"
+      },
+        {
+        "name": "Planet.Health: Infrastructures of Hope",
+        "description": "Geordan Shannon",
+        "start_date": "2024-04-14T17:10:00.000Z",
+        "end_date": "2024-04-14T17:30:00.000Z"
+      },
+        {
+        "name": "Talk",
+        "description": "Lynne Twist",
+        "start_date": "2024-04-14T17:30:00.000Z",
+        "end_date": "2024-04-14T17:55:00.000Z"
+      },
+        {
+        "name": "Talk",
+        "description": "Megan Klimen",
+        "start_date": "2024-04-14T17:55:00.000Z",
+        "end_date": "2024-04-14T18:15:00.000Z"
+      },
+        {
+        "name": "Talk",
+        "description": "Joe Mascaro",
+        "start_date": "2024-04-14T18:15:00.000Z",
+        "end_date": "2024-04-14T18:50:00.000Z"
+      },
+        {
+        "name": "Talk",
+        "description": "Jessy Kate Schlinger",
+        "start_date": "2024-04-14T18:50:00.000Z",
+        "end_date": "2024-04-14T19:10:00.000Z"
+      },
+          {
+        "name": "Blockchain Based Solutions for Climate",
+        "description": "Elvie Kamalova",
+        "start_date": "2024-04-14T19:10:00.000Z",
+        "end_date": "2024-04-14T19:30:00.000Z"
+      },
+          {
+        "name": "Can You Change the Future? Introducing the Ecological Benefits Framework",
+        "description": "Douglas Gayeton",
+        "start_date": "2024-04-14T19:30:00.000Z",
+        "end_date": "2024-04-14T20:00:00.000Z"
+      },
+          {
+        "name": "Lunch Break",
+        "description": "",
+        "start_date": "2024-04-14T20:00:00.000Z",
+        "end_date": "2024-04-14T21:00:00.000Z"
+      },
+          {
+        "name": "Building for Modern Carbon Credit Markets Using Open Data Frameworks and AI",
+        "description": "Peter Rosberg",
+        "start_date": "2024-04-14T21:00:00.000Z",
+        "end_date": "2024-04-14T21:30:00.000Z"
+      },
+       {
+        "name": "Talk",
+        "description": "Djimo Serodio",
+        "start_date": "2024-04-14T21:30:00.000Z",
+        "end_date": "2024-04-14T21:50:00.000Z"
+      },
+       {
+        "name": "Talk",
+        "description": "Christian Adler",
+        "start_date": "2024-04-14T21:50:00.000Z",
+        "end_date": "2024-04-14T22:10:00.000Z"
+      },
+       {
+        "name": "Talk",
+        "description": "Gregory Landua",
+        "start_date": "2024-04-14T22:10:00.000Z",
+        "end_date": "2024-04-14T22:30:00.000Z"
+      },
+       {
+        "name": "The Role of Agriculture and Soils in Planetary Health",
+        "description": "Michael Zargham and Jessica Zartler",
+        "start_date": "2024-04-14T22:30:00.000Z",
+        "end_date": "2024-04-14T23:15:00.000Z"
+      },
+      {
+        "name": "Talk",
+        "description": "Josh Whiton",
+        "start_date": "2024-04-14T23:15:00.000Z",
+        "end_date": "2024-04-14T23:35:00.000Z"
+      },
+      {
+        "name": "Talk",
+        "description": "Benjamin Life",
+        "start_date": "2024-04-14T23:35:00.000Z",
+        "end_date": "2024-04-15T00:35:00.000Z"
+      },
+      {
+        "name": "Talk",
+        "description": "Alan Ransil",
+        "start_date": "2024-04-15T00:35:00.000Z",
+        "end_date": "2024-04-15T00:55:00.000Z"
+      },
+      {
+        "name": "Closing Remarks",
+        "description": "David Casey",
+        "start_date": "2024-04-15T00:55:00.000Z",
+        "end_date": "2024-04-15T01:00:00.000Z"
+      },
+    ]
   },
   "sponsors": [
   ],
