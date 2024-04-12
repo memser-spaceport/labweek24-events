@@ -1,0 +1,30 @@
+{
+    "event_contact_name": "Jay Yu",
+    "event_contact_email": "jyu01@stanford.edu",
+    "event_name": "Stanford Blockchain Governance Summit",
+    "event_logo": "",
+    "host": "Stanford Blockchain Club",
+    "host_logo": "https://pl-labweek.s3.us-west-1.amazonaws.com/24/pg/logos/Stanford-Blockchain-Club.jpeg",
+    "co_hosts": [],
+    "description": "Welcome to the Stanford Blockchain Governance Summit! Join us for Stanford Blockchain’s inaugural, invite-only in-person conference dedicated to exploring the future of decentralized governance of blockchain protocols, hosted on April 12th on Stanford’s campus.",
+    "tags": [
+      "Conferrence",
+      "Blockchain",
+      "Governance"
+    ],
+    "start_date": "2024-04-12T16:00:00.000Z",
+    "end_date": "2024-04-13T02:00:00.000Z",
+    "access_type": "CUSTOM_REGISTRATION",
+    "access_option": "INVITE",
+    "format": "IN-PERSON",
+    "location": "Register to see address",
+    "location_url": "https://lu.ma/sbgs",
+    "seat_count": "1-50",
+    "website_link": "https://lu.ma/sbgs",
+    "agenda": {
+      "sessions": []
+    },
+    "sponsors": [],
+    "is_featured": false,
+    "conference": "labweek-24-pg"
+  }
