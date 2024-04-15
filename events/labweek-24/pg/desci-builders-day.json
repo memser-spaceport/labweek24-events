@@ -1,0 +1,37 @@
+{
+    "event_contact_name": "Joshua Bate",
+    "event_contact_email": "joshua@desci.world",
+    "event_name": "DeSci Builder's Day",
+    "event_logo": "",
+    "host": "Coophive",
+    "host_logo": "https://pl-labweek.s3.us-west-1.amazonaws.com/24/pg/logos/Coophive.png",
+    "co_hosts": [
+      {
+        "name": "DeSci World",
+        "logo": "https://www.lifespan.io/wp-content/uploads/2023/05/jg-K5Xz4.png"
+      },
+      {
+        "name": "Foresight Institute",
+        "logo": "https://pl-labweek.s3.us-west-1.amazonaws.com/24/pg/logos/foresight_institute_logo.jpeg"
+      }
+    ],
+    "description": "Join us to discuss the past, present, and future of DeSci. We'll discuss tooling, collaboration and requirements for the future within decentralised Science.",
+    "tags": [
+      "DeSci"
+    ],
+    "start_date": "2024-04-16T19:00:00.000Z",
+    "end_date": "2024-04-16T21:30:00.000Z",
+    "access_type": "CUSTOM_REGISTRATION",
+    "access_option": "OPEN",
+    "format": "IN-PERSON",
+    "location": "Embassy",
+    "location_url": "https://maps.app.goo.gl/aLG4kMaLDqM6wRGCA",
+    "seat_count": "1-50",
+    "website_link": "https://lu.ma/ajiaip60",
+    "agenda": {
+      "sessions": []
+    },
+    "sponsors": [],
+    "is_featured": false,
+    "conference": "labweek-24-pg"
+  }
