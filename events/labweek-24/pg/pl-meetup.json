@@ -1,0 +1,52 @@
+
+{
+  "event_contact_name": "Rohit & Dottie",           # mandatory
+  "event_contact_email": "",         # mandatory
+  "event_name": "PL Meetup",                               # mandatory
+  "event_logo": "https://pl-labweek.s3.us-west-1.amazonaws.com/24/pg/logos/protocol_labs.jpeg",                               # a static url (public accessible) of the logo, may be s3 or ipfs or anything else
+  "host": "Protocol Labs",                               # mandatory
+  "host_logo": "https://pl-labweek.s3.us-west-1.amazonaws.com/24/pg/logos/protocol_labs.jpeg",                                # a static url (public accessible) of the logo, may be s3 or ipfs or anything else
+  "co_hosts": [                                   # optional
+     {
+       "name": "",
+       "logo": ""                                 # Same rule as event or host logo, in case of unavailability of Co-hosts information do not add "name" and "logo" (including the braces {})
+     }
+   ],
+  "description": "Join us at Rooh (meaning soul or spirit) a Michelin Guide Indian Restaurant located in the heart of San Francisco's SoMa district.",
+  "tags": [
+    "Meetup",                        # Sample tag
+    "",                                    # Sample tag
+    "",                                      # Sample tag
+    <any custom tag>
+  ],
+  "start_date": "2024-04-18T01:30:00.000Z",        # Sample format in UTC
+  "end_date": "2024-04-18T04:30:00.000Z",          # Sample format in UTC
+  "access_type": "CUSTOM_REGISTRATION",            # mandatory and do not change the value
+  "access_option": "OPEN",                             # One of 'OPEN', 'INVITE', 'PAID'
+  "format": "IN-PERSON",                                    # One of 'HYBRID', 'VIRTUAL', 'IN-PERSON'
+  "location": "ROOH SF",                                  # any valid venue name
+  "location_url": "https://maps.app.goo.gl/GQgeybGJSM1arb8V8",                              # google map URL of the above mentioned venue
+  "meeting_platform": "",                          # zoom, google etc
+  "meeting_link": "",                              # zoom/google meeting link
+  "seat_count": "1-50",                            # any range like 1-50, 100-200 etc
+  "website_link": "https://www.eventbrite.com/e/pl-meetup-in-san-francisco-apr-2024-tickets-877622862607",
+  "agenda": {
+    "sessions": [
+       {
+          name: '',
+          description: '',                          # optional
+          start_date: ,                             # Sample format in UTC
+          end_date:                                 # Sample format in UTC (optional)
+       }                                            # In case of unavailability of the sessions information do not add "name", "description", "start_date" and "logo" (including the braces {})
+     ]
+  },
+  "is_featured": ,                                  # <true/false>,
+  "conference": "labweek-24-pg",                    # for now this is the only value supported - mandatory
+  "contact_infos": {
+    "twitter": "<link/handle>",
+    "telegram": "",                                 
+    "discord": "",
+    "bluesky": "",
+    "mastadon": ""
+  }
+}
