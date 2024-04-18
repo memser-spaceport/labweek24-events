@@ -3,9 +3,9 @@
   "event_contact_name": "Rohit & Dottie",           # mandatory
   "event_contact_email": "",         # mandatory
   "event_name": "PL Meetup",                               # mandatory
-  "event_logo": "",                               # a static url (public accessible) of the logo, may be s3 or ipfs or anything else
+  "event_logo": "https://pl-labweek.s3.us-west-1.amazonaws.com/24/pg/logos/protocol_labs.jpeg",                               # a static url (public accessible) of the logo, may be s3 or ipfs or anything else
   "host": "Protocol Labs",                               # mandatory
-  "host_logo": "",                                # a static url (public accessible) of the logo, may be s3 or ipfs or anything else
+  "host_logo": "https://pl-labweek.s3.us-west-1.amazonaws.com/24/pg/logos/protocol_labs.jpeg",                                # a static url (public accessible) of the logo, may be s3 or ipfs or anything else
   "co_hosts": [                                   # optional
      {
        "name": "",
