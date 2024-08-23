@@ -1,0 +1,39 @@
+{
+  "event_contact_name": "",
+  "event_contact_email": "",
+  "event_name": "Funding the Commons x Earth Commons Builder Residency",
+  "event_logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/ftc-residency_logo-LW24-Web3.jpeg",
+  "host": "Funding the Commons",
+  "host_logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/ftc_logo-LW24-Web3.png",
+  "description": "Funding the Commons Residency is a one-month experiment that supports innovation in construction and design oriented toward mechanism designs for Public Goods Funding.",
+  "tags": [
+    "Public Goods"
+  ],
+  "start_date": "2024-10-07T02:00:00.000Z",
+  "end_date": "2024-10-31T13:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "TBD",
+  "location_url": "",
+  "seat_count": "0-50",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-24-web3",
+  "meeting_platform": "",
+  "registration_link": "",
+  "website_link": "https://www.fundingthecommons.io/residencies",
+  "co_hosts": [
+    {
+      "name": "Earth Commons",
+      "logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/earthcommons_logo-LW24-Web3.jpeg"
+    }
+  ],
+  "secondary_contacts": [],
+  "applicants": [],
+  "priority": 3,
+  "meeting_link": ""
+}

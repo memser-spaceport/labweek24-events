@@ -1,0 +1,40 @@
+{
+    "event_contact_name": "Papillon",
+    "event_contact_email": "papillon@plrs.zyz",
+    "event_name": "ETHGlobal Bangkok",
+    "event_logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/LW24-Web3-EthGlobal_logo.png",
+    "host": "Polaris",
+    "host_logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/LW24-Web3-Polaris_logo.png",
+    "description": "36-hr weekend hackathon",
+    "tags": [
+      "Hackathon"
+    ],
+    "start_date": "2024-11-15T02:00:00.000Z",
+    "end_date": "2024-11-17T13:00:00.000Z",
+    "access_type": "CUSTOM_REGISTRATION",
+    "access_option": "OPEN",
+    "format": "IN-PERSON",
+    "location": "Queen Sirikit National Convention Center",
+    "location_url": "https://maps.app.goo.gl/oNq5FhrzQb2tGLkd8",
+    "seat_count": "0-50",
+    "agenda": {
+      "sessions": []
+    },
+    "sponsors": [],
+    "is_featured": false,
+    "conference": "labweek-24-web3",
+    "event_duration": 1,
+    "meeting_platform": "",
+    "registration_link": "",
+    "website_link": "https://ethglobal.com/events/bangkok",
+    "co_hosts": [],
+    "secondary_contacts": [
+      {
+        "name": "Niki",
+        "email": "niki@plrs.xyz"
+      }
+    ],
+    "applicants": [],
+    "priority": 3,
+    "meeting_link": ""
+  }
