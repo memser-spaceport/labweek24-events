@@ -1,0 +1,39 @@
+{
+  "event_contact_name": "",
+  "event_contact_email": "",
+  "event_name": "Funding the Commons x APAC DAO",
+  "event_logo": "",
+  "host": "Funding the Commons",
+  "host_logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/ftc_logo-LW24-Web3.png",
+  "description": "",
+  "tags": [
+    "Public Goods"
+  ],
+  "start_date": "2024-11-08T02:00:00.000Z",
+  "end_date": "2024-11-09T11:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "TBD",
+  "location_url": "",
+  "seat_count": "0-50",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-24-web3",
+  "meeting_platform": "",
+  "registration_link": "",
+  "website_link": "",
+  "co_hosts": [
+    {
+      "name": "APAC DAO",
+      "logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/APAC-DAO_logo-LW24-Web3.jpg"
+    }
+  ],
+  "secondary_contacts": [],
+  "applicants": [],
+  "priority": 3,
+  "meeting_link": ""
+}
