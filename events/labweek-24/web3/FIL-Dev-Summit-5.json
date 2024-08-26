@@ -1,0 +1,39 @@
+{
+  "event_contact_name": "",
+  "event_contact_email": "",
+  "event_name": "FIL Dev Summit 5",
+  "event_logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/FIL+Dev+Summit+5_logo-LW24-Web3.jpg",
+  "host": "Filecoin Foundation",
+  "host_logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/Filecoin-Foundation_logo-LW24-Web3.png",
+  "description": "FIL Dev Summit is a gathering of developers, builders, Storage Providers, and engaged community members who want to contribute to the evolution of Filecoin.",
+  "tags": [
+    "Filecoin"
+  ],
+  "start_date": "2024-11-06T04:00:00.000Z",
+  "end_date": "2024-11-06T11:30:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "PAID",
+  "format": "IN-PERSON",
+  "location": "Gaysorn Urban Resort",
+  "location_url": "https://maps.app.goo.gl/vMJVeZwZkbTsim7m7",
+  "seat_count": "0-50",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-24-web3",
+  "meeting_platform": "",
+  "registration_link": "",
+  "website_link": "https://lu.ma/vcdjb8pl",
+  "contact_infos": {
+    "twitter": [
+      "https://twitter.com/FILDevSummit"
+    ]
+  },
+  "co_hosts": [],
+  "secondary_contacts": [],
+  "applicants": [],
+  "priority": 3,
+  "meeting_link": ""
+}
