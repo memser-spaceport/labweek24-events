@@ -35,9 +35,7 @@ We encourage you to submit your events via a pull request on github, to do so..
 
 3\. Create a branch like event-&lt;your-event-filename&gt;, for eg. 'event-Funding-the-Commons', 'event-Opening-Party'
 
-4\. Place the finished file in the path as mentioned:<br />
-    - For Web3 - /events/labweek-24/web3/&lt;your-event-file-name&gt;.json<br />
-    - For Public Goods - /events/labweek-24/pg/&lt;your-event-file-name&gt;.json   (Public Goods event is completed and no longer accepts new events. Hence this folder is not active)
+4\. Place the finished file in the path as mentioned - /events/labweek-24/web3/&lt;your-event-file-name&gt;.json<br />
 
 5\. Create a PR from this branch to 'main' branch
 
