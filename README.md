@@ -1,4 +1,4 @@
-# Labweek24 - Public Goods
+# Labweek24
 
 LabWeek is a decentralized conference convened by network teams in Protocol Las. Taking place in emerging tech hubs around the world, it’s a chance for PL network teams to connect, collaborate and innovate across their fields of expertise. Events span topics such as zk proofs, AI x blockchain, decentralized storage, gaming in Web3, public goods funding, consensus, DePIN, cryptoeconomics, DeSci, and many more.
 
@@ -6,9 +6,14 @@ This year, there are 3 LabWeeks focused on Public Goods Funding, AI and Web3. Jo
 
 We are using this github repository [this github repository](https://github.com/memser-spaceport/labweek24-events) to coordinate event listings.
 
-## LabWeek24-Public Goods - Location & Date
+## LabWeek24-Web3 - Location & Date
 
-LabWeek is taking place from April 11th, Thursday to April 16th, Tuesday at San Francisco Bay Area, United States.
+LabWeek Web3 is taking place from Nov 7th, Thursday to Nov 13th, Wednesday at Bangkok, Thailand.
+
+## Past Events
+### LabWeek - Public Goods
+
+LabWeek Pulic Goods took place from April 11th, Thursday to April 16th, Tuesday at San Francisco Bay Area, United States.
 
 ## Decentralized Conference
 
@@ -18,7 +23,7 @@ Events can be run in many formats: roundtables, talks with slides, hack sessions
 
 ## Events Listing Service
 
-This repo contains all the events being planned and hosted at labweek24-public goods. Today, this represents a template for labweek24-public goods. But in the future it can hold any events created on behalf of any such decentralized conferences.
+This repo contains all the events being planned and hosted at labweek24 including Public Goods and Web3. But in the future it can hold any events created on behalf of any such decentralized conferences
 
 ## Submitting Events using GitHub Pull Requests (PRs)
 
@@ -30,7 +35,9 @@ We encourage you to submit your events via a pull request on github, to do so..
 
 3\. Create a branch like event-&lt;your-event-filename&gt;, for eg. 'event-Funding-the-Commons', 'event-Opening-Party'
 
-4\. Place the finished file in the path as mentioned: /events/labweek-24/pg/&lt;your-event-file-name&gt;.json
+4\. Place the finished file in the path as mentioned:<br />
+    - For Web3 - /events/labweek-24/web3/&lt;your-event-file-name&gt;.json<br />
+    - For Public Goods - /events/labweek-24/pg/&lt;your-event-file-name&gt;.json   (Public Goods event is completed and no longer accepts new events. Hence this folder is not active)
 
 5\. Create a PR from this branch to 'main' branch
 
