@@ -1,0 +1,42 @@
+{
+  "event_contact_name": "",
+  "event_contact_email": "",
+  "event_name": "Edge City Lanna",
+  "event_logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/Lanna_logo-LW24-Web3.jpg",
+  "host": "Edge City",
+  "host_logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/Edge-City_logo-LW24-Web3.jpg",
+  "description": "A popup village to incubate a flourishing future. Edge City is an IRL experimentation lab for new ideas, tech, culture, and organizations, all dedicated to accelerating human flourishing.",
+  "tags": [
+    "AI",
+    "Crypto",
+    "Biotech",
+    "Neurotech"
+  ],
+  "start_date": "2024-10-10T02:00:00.000Z",
+  "end_date": "2024-11-10T13:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "PAID",
+  "format": "IN-PERSON",
+  "location": "TBD",
+  "location_url": "",
+  "seat_count": "0-50",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-24-web3",
+  "meeting_platform": "",
+  "registration_link": "",
+  "website_link": "https://www.edgecity.live/lanna",
+  "contact_infos": {
+    "twitter": [
+      "https://twitter.com/JoinEdgeCity"
+    ]
+  },
+  "co_hosts": [],
+  "secondary_contacts": [],
+  "applicants": [],
+  "priority": 3,
+  "meeting_link": ""
+}
