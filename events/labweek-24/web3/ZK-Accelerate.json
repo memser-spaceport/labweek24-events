@@ -26,12 +26,6 @@
   "meeting_platform": "",
   "registration_link": "",
   "website_link": "https://lu.ma/zkathailand",
-  "co_hosts": [
-    {
-      "name": "APAC DAO",
-      "logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/APAC-DAO_logo-LW24-Web3.jpg"
-    }
-  ],
   "secondary_contacts": [],
   "applicants": [],
   "priority": 3,
