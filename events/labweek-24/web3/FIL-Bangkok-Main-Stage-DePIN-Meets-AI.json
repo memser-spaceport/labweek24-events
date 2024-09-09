@@ -1,0 +1,34 @@
+{
+    "event_contact_name": "Elsa",
+    "event_contact_email": "elsa@fil.org",
+    "event_name": "FIL Bangkok Main Stage: DePIN Meets AI",
+    "event_logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/FILBankok_Social.png",
+    "host": "Filecoin Foundation",
+    "host_logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/Filecoin-Foundation_logo-LW24-Web3.png",
+    "description": "FIL Bangkok unites the Filecoin ecosystem and broader Web3 community for a day of innovation and collaboration. Join us to learn more about key network upgrades, new L2 solutions built on Filecoin, and Filecoin’s future trajectory.",
+    "tags": [
+      "DePIN"
+    ],
+    "start_date": "2024-11-11T05:00:00.000Z",
+    "end_date": "2024-11-11T13:00:00.000Z",
+    "access_type": "CUSTOM_REGISTRATION",
+    "access_option": "OPEN",
+    "format": "IN-PERSON",
+    "location": "Samyan Mitrtown",
+    "location_url": "https://maps.app.goo.gl/5giQZHNb2Bo3mmkf7",
+    "seat_count": "0-50",
+    "agenda": {
+      "sessions": []
+    },
+    "sponsors": [],
+    "is_featured": false,
+    "conference": "labweek-24-web3",
+    "meeting_platform": "",
+    "registration_link": "",
+    "website_link": "https://lu.ma/aqyqwupe",
+    "co_hosts": [],
+    "secondary_contacts": [],
+    "applicants": [],
+    "priority": 3,
+    "meeting_link": ""
+  }
