@@ -1,39 +1,48 @@
 {
-  "event_contact_name": "",
-  "event_contact_email": "",
+  "event_contact_name": "Tereza",
+  "event_contact_email": "tereza@fundingthecommons.io",
+  "secondary_contacts": [],
   "event_name": "Funding the Commons x APAC DAO",
   "event_logo": "",
   "host": "Funding the Commons",
   "host_logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/ftc_logo-LW24-Web3.png",
-  "description": "",
-  "tags": [
-    "Public Goods"
-  ],
-  "start_date": "2024-11-08T02:00:00.000Z",
-  "end_date": "2024-11-09T11:00:00.000Z",
-  "access_type": "CUSTOM_REGISTRATION",
-  "access_option": "OPEN",
-  "format": "IN-PERSON",
-  "location": "TBD",
-  "location_url": "",
-  "seat_count": "0-50",
-  "agenda": {
-    "sessions": []
-  },
-  "sponsors": [],
-  "is_featured": false,
-  "conference": "labweek-24-web3",
-  "meeting_platform": "",
-  "registration_link": "",
-  "website_link": "",
   "co_hosts": [
     {
       "name": "APAC DAO",
       "logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/APAC-DAO_logo-LW24-Web3.jpg"
     }
   ],
-  "secondary_contacts": [],
-  "applicants": [],
-  "priority": 3,
-  "meeting_link": ""
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Join us for our 11th Funding the Commons conference in Bangkok in November 2024! ​We will explore two focal areas:&nbsp;</span></p><p class=\"editor-paragraph\"><span style=\"white-space: pre-wrap;\">&nbsp;</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">​- The evolution of innovation in digital public goods and open web funding, with a focus on impact evaluation and related challenges.</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">- ​Local and regional approaches in Southeast Asia (SEA) concerning commons-in-practice and public goods.&nbsp;</span></p>",
+  "tags": [
+    "Public Goods"
+  ],
+  "start_date": "2024-11-08T03:00:00.000Z",
+  "end_date": "2024-11-08T11:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "TBD",
+  "location_url": "",
+  "meeting_platform": "",
+  "meeting_link": "",
+  "seat_count": "0-50",
+  "registration_link": "https://lu.ma/ftc-bangkok-2024",
+  "website_link": "https://www.fundingthecommons.io/bangkok-2024",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-24-web3",
+  "createdAt": "2024-08-23T10:49:57.957Z",
+  "updatedAt": "2024-09-18T16:28:04.474Z",
+  "nft_ticketing": {
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "default_fields": [],
+    "additional_fields": [],
+    "custom_fields": []
+  }
 }
