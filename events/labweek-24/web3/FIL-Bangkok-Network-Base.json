@@ -1,34 +1,43 @@
 {
   "event_contact_name": "Elsa",
   "event_contact_email": "elsa@fil.org",
-  "event_name": "FIL Bangkok Network Base",
+  "secondary_contacts": [],
+  "event_name": "FIL Bangkok Co-Working Space",
   "event_logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/FILBankok_Social.png",
   "host": "Filecoin Foundation",
   "host_logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/Filecoin-Foundation_logo-LW24-Web3.png",
-  "description": "Your home base in in Bangkok to expand your network and deepen connections. FIL Dev Summit is a gathering of developers, builders, and engaged community members who want to contribute to the core protocol and network evolution of Filecoin. The summit is a place for meaningful and impactful conversations that help push Filecoin forward. Registration coming soon.",
+  "co_hosts": [],
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Your home base in Bangkok to expand your network and deepen connections. </span></p>",
   "tags": [
     "Public Goods"
   ],
-  "start_date": "2024-11-12T02:00:00.000Z",
-  "end_date": "2024-11-14T11:00:00.000Z",
+  "start_date": "2024-11-06T02:00:00.000Z",
+  "end_date": "2024-11-08T11:00:00.000Z",
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
   "location": "Gaysorn Urban Resort",
   "location_url": "https://maps.app.goo.gl/vMJVeZwZkbTsim7m7",
+  "meeting_platform": "",
+  "meeting_link": "",
   "seat_count": "0-50",
+  "registration_link": "",
+  "website_link": "",
   "agenda": {
     "sessions": []
   },
   "sponsors": [],
   "is_featured": false,
   "conference": "labweek-24-web3",
-  "meeting_platform": "",
-  "registration_link": "",
-  "website_link": "https://lu.ma/aqyqwupe",
-  "co_hosts": [],
-  "secondary_contacts": [],
-  "applicants": [],
-  "priority": 3,
-  "meeting_link": ""
+  "createdAt": "2024-08-23T10:49:57.210Z",
+  "updatedAt": "2024-09-19T19:43:36.591Z",
+  "nft_ticketing": {
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "default_fields": [],
+    "additional_fields": [],
+    "custom_fields": []
+  }
 }
