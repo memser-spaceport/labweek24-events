@@ -35,7 +35,7 @@
   "meeting_link": "",
   "seat_count": "1-50",
   "registration_link": "https://lu.ma/j49yitcw",
-  "website_link": "https://lu.ma/zkathailand",
+  "website_link": "https://lu.ma/j49yitcw",
   "agenda": {
     "sessions": []
   },
@@ -43,7 +43,7 @@
   "is_featured": false,
   "conference": "labweek-24-web3",
   "createdAt": "2024-08-23T10:49:57.445Z",
-  "updatedAt": "2024-09-20T06:05:49.514Z",
+  "updatedAt": "2024-09-20T16:10:56.122Z",
   "nft_ticketing": {
     "verifier_wallet_addresses": [],
     "verifier_email_addresses": [],
