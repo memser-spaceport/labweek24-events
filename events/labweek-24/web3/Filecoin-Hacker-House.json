@@ -20,7 +20,7 @@
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1726757257738_213.png"
     }
   ],
-  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">​</span><a href=\"https://x.com/_FilOz\" target=\"_blank\" rel=\"nofollow noopener\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">FilOz</span></a><span style=\"white-space: pre-wrap;\">,&nbsp;</span><a href=\"https://plnetwork.io/\" target=\"_blank\" rel=\"nofollow noopener\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">Polaris</span></a><span style=\"white-space: pre-wrap;\">,&nbsp;</span><a href=\"https://fil.builders/\" target=\"_blank\" rel=\"nofollow noopener\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">FIL-B</span></a><span style=\"white-space: pre-wrap;\">; and&nbsp;</span><a href=\"http://www.fil.org/\" target=\"_blank\" rel=\"nofollow noopener\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">Filecoin Foundation</span></a><span style=\"white-space: pre-wrap;\">​ are excited to invite passionate builders, developers, founders, and innovators to the&nbsp;</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">first ever Filecoin Hacker House</strong></b><span style=\"white-space: pre-wrap;\">&nbsp;in Chiang Mai, Thailand from October 26 to November 3! This immersive 9-day event is an invitation-only gathering focused on fostering collaboration, growth, and community within the Filecoin ecosystem.</span></p>",
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">​</span><a href=\"https://x.com/_FilOz\" target=\"_blank\" rel=\"nofollow noopener\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">FilOz</span></a><span style=\"white-space: pre-wrap;\">,&nbsp;</span><a href=\"https://plnetwork.io/\" target=\"_blank\" rel=\"nofollow noopener\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">Polaris</span></a><span style=\"white-space: pre-wrap;\">,&nbsp;</span><a href=\"https://fil.builders/\" target=\"_blank\" rel=\"nofollow noopener\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">FIL-B</span></a><span style=\"white-space: pre-wrap;\">; and&nbsp;</span><a href=\"http://www.fil.org/\" target=\"_blank\" rel=\"nofollow noopener\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">Filecoin Foundation</span></a><span style=\"white-space: pre-wrap;\">​ are excited to invite passionate builders, developers, founders, and innovators to the&nbsp;</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">first-ever Filecoin Hacker House</strong></b><span style=\"white-space: pre-wrap;\">&nbsp;in Chiang Mai, Thailand from October 26 to November 3! This immersive 9-day event is an invitation-only gathering focused on fostering collaboration, growth, and community within the Filecoin ecosystem.</span></p>",
   "tags": [
     "Filecoin"
   ],
@@ -43,7 +43,7 @@
   "is_featured": false,
   "conference": "labweek-24-web3",
   "createdAt": "2024-08-23T10:49:57.445Z",
-  "updatedAt": "2024-09-20T06:04:53.250Z",
+  "updatedAt": "2024-09-20T06:05:49.514Z",
   "nft_ticketing": {
     "verifier_wallet_addresses": [],
     "verifier_email_addresses": [],
