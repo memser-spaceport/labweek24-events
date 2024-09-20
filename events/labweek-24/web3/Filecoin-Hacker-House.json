@@ -27,7 +27,7 @@
   "start_date": "2024-10-26T02:00:00.000Z",
   "end_date": "2024-11-03T13:00:00.000Z",
   "access_type": "CUSTOM_REGISTRATION",
-  "access_option": "OPEN",
+  "access_option": "INVITE-ONLY",
   "format": "IN-PERSON",
   "location": "TBD",
   "location_url": "",
