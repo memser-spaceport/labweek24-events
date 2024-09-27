@@ -1,35 +1,43 @@
 {
-    "event_contact_name": "Ryo Mochido",
-    "event_contact_email": "ryo@plrs.xyz",
-    "event_name": "LabWeek Opening Party",
-    "event_logo": "",
-    "host": "Polaris",
-    "host_logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/LW24-Web3-Polaris_logo.png",
-    "description": "The opening party is the official kickoff to LabWeek, our annual flagship conference. Join us for an evening of cocktails, light bites, music and good company to kick the week off in style.",
-    "tags": [
-      "Social"
-    ],
-    "start_date": "2024-11-07T11:00:00.000Z",
-    "end_date": "2024-11-07T15:00:00.000Z",
-    "access_type": "CUSTOM_REGISTRATION",
-    "access_option": "OPEN",
-    "format": "IN-PERSON",
-    "location": "TBD",
-    "location_url": "",
-    "seat_count": "0-50",
-    "agenda": {
-      "sessions": []
-    },
-    "sponsors": [],
-    "is_featured": true,
-    "conference": "labweek-24-web3",
-    "event_duration": 1,
-    "meeting_platform": "",
-    "registration_link": "",
-    "website_link": "",
-    "co_hosts": [],
-    "secondary_contacts": [],
-    "applicants": [],
-    "priority": 3,
-    "meeting_link": ""
+  "event_contact_name": "Ryo",
+  "event_contact_email": "ryo@plrs.xyz",
+  "secondary_contacts": [],
+  "event_name": "LabWeek Opening Party",
+  "event_logo": "",
+  "host": "Polaris",
+  "host_logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/LW24-Web3-Polaris_logo.png",
+  "co_hosts": [],
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">The opening party is the official kickoff to LabWeek, our annual flagship conference. Join us for an evening of cocktails, light bites, music and good company to kick the week off in style.</span></p>",
+  "tags": [
+    "Social"
+  ],
+  "start_date": "2024-11-07T11:30:00.000Z",
+  "end_date": "2024-11-07T15:30:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "TBD",
+  "location_url": "",
+  "meeting_platform": "",
+  "meeting_link": "",
+  "seat_count": "0-50",
+  "registration_link": "https://lu.ma/o7ddf7vx",
+  "website_link": "https://lu.ma/o7ddf7vx",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "is_featured": true,
+  "conference": "labweek-24-web3",
+  "createdAt": "2024-08-23T10:49:58.439Z",
+  "updatedAt": "2024-09-27T09:15:46.755Z",
+  "nft_ticketing": {
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "default_fields": [],
+    "additional_fields": [],
+    "custom_fields": []
   }
+}
