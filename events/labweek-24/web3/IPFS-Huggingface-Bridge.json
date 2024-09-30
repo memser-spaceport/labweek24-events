@@ -1,0 +1,55 @@
+
+{
+    "event_contact_name": "Benjamin Barber",
+    "event_contact_email": "starworks5@gmail.com",        
+    "event_name":  "IPFS / libp2p Huggingface Bridge",                              
+    "event_logo": "https://avatars.githubusercontent.com/u/145943853",                                          
+    "co_hosts": [                                   
+       {
+         "name": "Hallucinate LLC",
+         "logo": "https://avatars.githubusercontent.com/u/123265934"                                 
+       },
+       {
+            "name": "LAION.AI",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/9/99/LAION_logo.svg"                                 
+       }
+     ],
+    "description": "",
+    "tags": [
+      "Talks & Presentation",                        
+      "Workshop",                                    
+      "IPFS",                                        
+      "Huggingface"                                
+    ],
+    "start_date": "2023-11-13T19:00:00.000Z",          
+    "end_date": "2023-11-13T20:00:00.000Z",
+    "access_type": "OPEN",            
+    "access_option": "OPEN",                             
+    "format": "Virtual",                                    
+    "location": "IPFS Discord",                                  
+    "location_url": "https://discord.gg/6fpmxEPX",                           
+    "meeting_platform": "discord",                         
+    "meeting_link": "https://discord.gg/6fpmxEPX",                             
+    "seat_count": "1-200",                           
+    "website_link": "",
+    "agenda": {
+      "sessions": [
+         {
+            "name": "IPFS / libp2p Huggingface Bridge",         
+            "description": "a libp2p / IPFS bridge to huggingface libraries",                          
+            "start_date": "2023-11-13T19:00:00.000Z",                                  
+            "end_date": "2023-11-13T20:00:00.000Z"                                
+         }                                            
+       ]
+    },
+    "is_featured": false,                                  
+    "conference": "labweek-24-pg",
+    "contact_infos": {
+      "twitter": "",
+      "telegram": "",                                 
+      "discord": "@endomorphosis",
+      "bluesky": "",
+      "mastadon": ""
+    }
+}
+  
