@@ -1,64 +1,64 @@
 {
-    "event_contact_name": "Michelle Lee",
-    "event_contact_email": "",
-    "secondary_contacts": [],
-    "event_name": "IPFS Bangkok",
-    "event_logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/ipfs_logo-LW24-Web3.png",
-    "host": "IPFS",
-    "host_logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/ipfs_logo-LW24-Web3.png",
-    "co_hosts": [],
-    "description": "<h1 class=\"editor-heading-h1\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">Join us at IPFS Bangkok, an unconference-style event hosted alongside DevCon in Thailand! 🇹🇭 🐘</span></h1>",
-    "tags": [
-      "IPFS"
-    ],
-    "start_date": "2024-11-10T06:00:00.000Z",
-    "end_date": "2024-11-10T11:00:00.000Z",
-    "access_type": "CUSTOM_REGISTRATION",
-    "access_option": "OPEN",
-    "format": "IN-PERSON",
-    "location": "JustCo – Samyan Mitrtown | Coworking & Office Space",
-    "location_url": "https://maps.app.goo.gl/T1iSit2wJPYGESn76",
-    "meeting_platform": "",
-    "meeting_link": "",
-    "seat_count": "0-50",
-    "registration_link": "https://lu.ma/ipfs-bangkok",
-    "website_link": "https://lu.ma/ipfs-bangkok",
-    "agenda": {
-      "sessions": [
-        {
-          "start_date": "2024-11-10T06:00:00.000Z",
-          "end_date": "2024-11-10T06:30:00.000Z",
-          "name": "Arrival & Networking + Registration"
-        },
-        {
-          "start_date": "2024-11-10T06:30:00.000Z",
-          "end_date": "2024-11-10T07:00:00.000Z",
-          "name": "Welcome + IPFS Overview"
-        },
-        {
-          "start_date": "2024-11-10T07:00:00.000Z",
-          "end_date": "2024-11-10T10:00:00.000Z",
-          "name": "Breakout Sessions (full topic schedule to come)"
-        },
-        {
-          "start_date": "2024-11-10T10:00:00.000Z",
-          "end_date": "2024-11-10T11:00:00.000Z",
-          "name": "Social Hour, Open Mic, + Networking"
-        }
-      ]
-    },
-    "sponsors": [],
-    "is_featured": false,
-    "conference": "labweek-24-web3",
-    "createdAt": "2024-08-27T11:57:05.190Z",
-    "updatedAt": "2024-09-26T05:13:33.837Z",
-    "nft_ticketing": {
-      "verifier_wallet_addresses": [],
-      "verifier_email_addresses": [],
-      "hide_event_logo": false,
-      "hide_attendees": false,
-      "default_fields": [],
-      "additional_fields": [],
-      "custom_fields": []
-    }
-  }
+  "event_contact_name": "Michelle Lee",
+  "event_contact_email": "michelle@protocol.ai",
+  "secondary_contacts": [],
+  "event_name": "IPFS Bangkok",
+  "event_logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/ipfs_logo-LW24-Web3.png",
+  "host": "IPFS",
+  "host_logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/ipfs_logo-LW24-Web3.png",
+  "co_hosts": [],
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">Join us at IPFS Bangkok, an unconference-style event hosted alongside DevCon in Thailand! 🇹🇭 🐘</span></p>",
+  "tags": [
+    "IPFS"
+  ],
+  "start_date": "2024-11-10T06:00:00.000Z",
+  "end_date": "2024-11-10T11:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "JustCo – Samyan Mitrtown | Coworking & Office Space",
+  "location_url": "https://maps.app.goo.gl/T1iSit2wJPYGESn76",
+  "meeting_platform": "",
+  "meeting_link": "",
+  "seat_count": "0-50",
+  "registration_link": "https://lu.ma/ipfs-bangkok",
+  "website_link": "https://lu.ma/ipfs-bangkok",
+  "agenda": {
+    "sessions": [
+      {
+        "start_date": "2024-11-10T06:00:00.000Z",
+        "end_date": "2024-11-10T06:30:00.000Z",
+        "name": "Arrival & Networking + Registration"
+      },
+      {
+        "start_date": "2024-11-10T06:30:00.000Z",
+        "end_date": "2024-11-10T07:00:00.000Z",
+        "name": "Welcome + IPFS Overview"
+      },
+      {
+        "start_date": "2024-11-10T07:00:00.000Z",
+        "end_date": "2024-11-10T10:00:00.000Z",
+        "name": "Breakout Sessions (full topic schedule to come)"
+      },
+      {
+        "start_date": "2024-11-10T10:00:00.000Z",
+        "end_date": "2024-11-10T11:00:00.000Z",
+        "name": "Social Hour, Open Mic, + Networking"
+      }
+    ]
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-24-web3",
+  "nft_ticketing": {
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "default_fields": [],
+    "additional_fields": [],
+    "custom_fields": []
+  },
+  "createdAt": "2024-08-27T11:57:05.190Z",
+  "updatedAt": "2024-10-02T04:34:59.194Z"
+}
