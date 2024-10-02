@@ -7,7 +7,7 @@
   "host": "IPFS",
   "host_logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/ipfs_logo-LW24-Web3.png",
   "co_hosts": [],
-  "description": "<p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">Join us at IPFS Bangkok, an unconference-style event hosted alongside DevCon in Thailand! 🇹🇭 🐘</span></p>",
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">Join us at IPFS Bangkok, an unconference-style event hosted alongside Devcon in Thailand! 🇹🇭 🐘</span></p>",
   "tags": [
     "IPFS"
   ],
@@ -60,5 +60,5 @@
     "custom_fields": []
   },
   "createdAt": "2024-08-27T11:57:05.190Z",
-  "updatedAt": "2024-10-02T04:34:59.194Z"
+  "updatedAt": "2024-10-02T21:18:35.599Z"
 }
