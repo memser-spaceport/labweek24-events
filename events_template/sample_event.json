@@ -41,7 +41,7 @@
      ]
   },
   "is_featured": ,                                  # <true/false>,
-  "conference": "labweek-24-pg",                    # for now this is the only value supported - mandatory
+  "conference": "",                                 # 'labweek-24-pg' - for pg or 'labweek-24-web3' for web3 - mandatory
   "contact_infos": {
     "twitter": "<link/handle>",
     "telegram": "",                                 
