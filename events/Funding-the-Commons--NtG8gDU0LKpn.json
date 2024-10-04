@@ -1,0 +1,110 @@
+{
+  "event_contact_name": "Tereza Bizkova",
+  "event_contact_email": "contact@fundingthecommons.io",
+  "secondary_contacts": [],
+  "event_name": "Funding the Commons: Bangkok 2024",
+  "event_logo": "",
+  "host": "Funding the Commons",
+  "host_logo": "",
+  "co_hosts": [],
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​Join us on Nov 8-9 for the 11th Funding the Commons conference. We’ll explore public goods funding, digital innovation, and, for the second time this year, partner with&nbsp;</span><a href=\"https://www.commons.earth/\" target=\"_blank\" rel=\"nofollow noopener\" class=\"editor-link\"><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Earth Commons</strong></b></a><span style=\"white-space: pre-wrap;\">&nbsp;to spotlight environmental stewardship, regenerative agriculture, biodiversity, and decentralized science.</span></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Our program will focus on:</strong></b></p><ul class=\"editor-list-ul\"><li value=\"1\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">​Innovation in digital public goods and open web funding, with a focus on impact evaluation and related challenges.</span></li><li value=\"2\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">​Local and regional commons approaches in Southeast Asia.</span></li><li value=\"3\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">​Stewardship and preservation of natural resources, bridging the commons conversation with decentralized science.</span></li><li value=\"4\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">​A showcase of track outcomes from the Chiang Mai Builder Residency and Hackathon.</span></li></ul><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​This conference is intentionally designed, with the help of our main partner APAC DAO, to be interactive and hands-on, emphasizing intimate engagement and peer-to-peer learning through interactive workshops, with an intimate main stage area for presentations. There will also be an unconference space for emergent collaboration and peer to peer learning.</span></p>",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2024-11-08T03:00:00.000Z",
+  "end_date": "2024-11-08T11:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "registration_link": "https://lu.ma/ftc-bangkok-2024",
+  "website_link": "https://www.fundingthecommons.io/bangkok-2024",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "conference": "labweek-24-web3",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2024-10-04T18:44:40.000Z",
+  "updatedAt": "2024-10-04T18:44:40.000Z"
+}
