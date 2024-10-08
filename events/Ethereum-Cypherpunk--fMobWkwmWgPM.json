@@ -17,7 +17,7 @@
   "access_option": "OPEN",
   "format": "IN-PERSON",
   "location": "256 Rama I Rd",
-  "location_url": "https://maps.app.goo.gl/6njrFVoYCFU7MSnv5",
+  "location_url": "https://maps.app.goo.gl/vZGyFurvja4ihRcc6",
   "meeting_platform": "",
   "seat_count": "1-50",
   "registration_link": "https://lu.ma/w3pn-meetup-devcon7",
@@ -118,5 +118,5 @@
     "custom_fields": []
   },
   "createdAt": "2024-10-08T05:20:24.284Z",
-  "updatedAt": "2024-10-08T05:20:24.284Z"
+  "updatedAt": "2024-10-08T08:35:20.238Z"
 }
