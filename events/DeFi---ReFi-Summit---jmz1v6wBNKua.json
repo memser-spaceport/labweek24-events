@@ -2,7 +2,7 @@
   "event_contact_name": "Nassim Dehouche",
   "event_contact_email": "n.y.dehouche@gmail.com",
   "secondary_contacts": [],
-  "event_name": "DeFi & ReFi Summit:  Road to Devcon",
+  "event_name": "DeSci & ReFi Summit:  Road to Devcon",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1728458020548_49.jpeg",
   "host": "DeSci Thailand",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1728458470664_797.jpeg",
@@ -116,5 +116,5 @@
     "custom_fields": []
   },
   "createdAt": "2024-10-09T07:28:24.674Z",
-  "updatedAt": "2024-10-09T07:28:24.674Z"
+  "updatedAt": "2024-10-09T14:25:20.257Z"
 }
