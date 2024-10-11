@@ -1,0 +1,116 @@
+{
+  "event_contact_name": "Patrick McClurg",
+  "event_contact_email": "patrick@randa.mu",
+  "secondary_contacts": [],
+  "event_name": "Threshold Summit Bangkok",
+  "event_logo": "",
+  "host": "Randamu",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1728635104354_914.png",
+  "co_hosts": [],
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">At this exclusive event, you'll have the opportunity to dive deep into how threshold networks are redefining the landscape of distributed systems by seamlessly integrating </span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Verification</strong></b><span style=\"white-space: pre-wrap;\">, </span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Time</strong></b><span style=\"white-space: pre-wrap;\">, and </span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Encryption</strong></b><span style=\"white-space: pre-wrap;\"> in powerful ways. It’s not just about one network, but how multiple networks are leveraging these technologies to create more secure, verifiable, and efficient decentralized systems.</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">​Why Attend?</span></p><ul class=\"editor-list-ul\"><li value=\"1\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">​</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Learn from Pioneers</strong></b><span style=\"white-space: pre-wrap;\">: Discover how threshold networks combine cryptographic tools like randomness beacons, time-stamping, and conditional encryption to create a dynamic, trustless environment for developers.</span></li><li value=\"2\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">​</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Expand Your Capabilities</strong></b><span style=\"white-space: pre-wrap;\">: Builders can set up actions triggered by specific conditions at different points in time—enabling a </span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">robust ordering of activities</strong></b><span style=\"white-space: pre-wrap;\"> in your decentralized applications.</span></li><li value=\"3\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">​</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Cross-Network Sync</strong></b><span style=\"white-space: pre-wrap;\">: Explore how you can leverage randomness emissions and timestamping to synchronize processes across different networks, enhancing the efficiency and reliability of your own systems.</span></li><li value=\"4\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">​</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Collaborate and Connect</strong></b><span style=\"white-space: pre-wrap;\">: Meet with thought leaders and developers who are pushing the boundaries of what’s possible with threshold networks.</span></li></ul>",
+  "tags": [
+    "Talks & Presentation",
+    "Workshop"
+  ],
+  "start_date": "2024-11-12T05:00:00.000Z",
+  "end_date": "2024-11-12T11:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "U Sathorn Bangkok",
+  "location_url": "https://maps.app.goo.gl/KCjAmioqDNaMa1ud6",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "registration_link": "https://lu.ma/2hqvjjzl",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "contact_infos": {
+    "twitter": [
+      "https://twitter.com/RandamuInc"
+    ]
+  },
+  "is_featured": false,
+  "conference": "labweek-24-web3",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2024-10-11T08:27:32.672Z",
+  "updatedAt": "2024-10-11T08:27:32.672Z"
+}
