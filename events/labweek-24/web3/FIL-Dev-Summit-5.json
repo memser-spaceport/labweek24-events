@@ -12,7 +12,7 @@
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1726799154869_300.png"
     }
   ],
-  "description": "FIL Dev Summit is a gathering of developers, builders, Storage Providers, and engaged community members who want to contribute to the evolution of Filecoin.",
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">FIL Dev Summit is a gathering of developers, builders, Storage Providers, and engaged community members who want to contribute to the evolution of Filecoin.</span></p><p class=\"editor-paragraph\"><br></p><p class=\"editor-paragraph\" dir=\"ltr\"><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Speakers</strong></b><span style=\"white-space: pre-wrap;\"> - </span><a href=\"https://directory.plnetwork.io/members/cldvu9zjf04ont40ya1r9j7wz\" target=\"_blank\" rel=\"noreferrer\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">Juan Benet</span></a><span style=\"white-space: pre-wrap;\">, </span><a href=\"https://directory.plnetwork.io/members/cldvo0jfu02hpu21klg3te9b7\" target=\"_blank\" rel=\"noreferrer\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">Molly Mackinlay</span></a><span style=\"white-space: pre-wrap;\">, Eva Shon, Clara Tsao, Steven Li, Qing Warthen, Porter Stowell, Jennifer Wang, Sarah Thiam</span></p>",
   "tags": [
     "Filecoin"
   ],
@@ -40,7 +40,7 @@
   "is_featured": false,
   "conference": "labweek-24-web3",
   "createdAt": "2024-08-26T10:15:58.362Z",
-  "updatedAt": "2024-09-20T02:26:46.541Z",
+  "updatedAt": "2024-10-14T01:03:41.356Z",
   "nft_ticketing": {
     "verifier_wallet_addresses": [],
     "verifier_email_addresses": [],
