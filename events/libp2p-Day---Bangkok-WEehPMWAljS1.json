@@ -1,0 +1,122 @@
+{
+  "event_contact_name": "David Grantham",
+  "event_contact_email": "dave@aviation.community",
+  "secondary_contacts": [
+    {
+      "name": "Kent Bull",
+      "email": "kent@aviation.community"
+    }
+  ],
+  "event_name": "libp2p Day @ Bangkok 2024",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729036519493_91.png",
+  "host": "Paper Aviation",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729036839758_703.png",
+  "co_hosts": [],
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">🚀 </span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">lib</strong></b><span style=\"white-space: pre-wrap;\">p2p Day is a gathering of developers, researchers, and engaged community members focused on pushing the boundaries of decentralized peer-to-peer networks. This event is where we will dig into turning nuts and bolts solutions and cutting edge research into a usable and robust peer-to-peer networking library for our mobile and ad hoc internet of today. 😎</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">​Why Attend?</span></p><ul class=\"editor-list-ul\"><li value=\"1\" class=\"editor-listitem\"><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Meet the Experts: </strong></b><span style=\"white-space: pre-wrap;\">Many of the maintainers and experts using </span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">lib</strong></b><span style=\"white-space: pre-wrap;\">p2p in production will also be in attendance giving talks and leading workshops.</span></li><li value=\"2\" class=\"editor-listitem\"><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Level up Your Skills:</strong></b><span style=\"white-space: pre-wrap;\"> The schedule includes a learning workshop meant to get developers new to </span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">lib</strong></b><span style=\"white-space: pre-wrap;\">p2p building networks quickly while also covering advanced topics for people with more experience.</span></li><li value=\"3\" class=\"editor-listitem\"><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Advanced Topics Discussions:</strong></b><span style=\"white-space: pre-wrap;\"> 2024 has see a number of improvements to </span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">lib</strong></b><span style=\"white-space: pre-wrap;\">p2p with browser-to-browser connectivity, AutoNATv2, and gossip sub improvements. Come learn how to leverage these improvements in your projects.</span></li><li value=\"4\" class=\"editor-listitem\"><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Community Participation:</strong></b><span style=\"white-space: pre-wrap;\"> At </span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">lib</strong></b><span style=\"white-space: pre-wrap;\">p2p Day we always set aside time to discuss the project at large and set agendas for the months to come. If you show up, you're the right person. What you care about most is the right thing to discuss and work on. Come help shape the future of </span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">lib</strong></b><span style=\"white-space: pre-wrap;\">p2p.</span></li></ul><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">You can participate before, during, and after the event by joining the event Telegram group:</span></p><ul class=\"editor-list-ul\"><li value=\"1\" class=\"editor-listitem\"><a href=\"https://t.me/+sb0n5HqaonJhNTVh\" target=\"_blank\" rel=\"noreferrer\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">libp2p@Bangkok 2024</span></a></li></ul><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">You may also join one of our community chat channels:</span></p><ul class=\"editor-list-ul\"><li value=\"1\" class=\"editor-listitem\"><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Slack:</strong></b><span style=\"white-space: pre-wrap;\"> </span><a href=\"https://filecoinproject.slack.com/archives/C06HV0D00E5\" target=\"_blank\" rel=\"noreferrer\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">#libp2p-community</span></a></li><li value=\"2\" class=\"editor-listitem\"><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Discord:</strong></b><span style=\"white-space: pre-wrap;\"> </span><a href=\"https://discordapp.com/channels/1204447718093750272/1204448127986434118\" target=\"_blank\" rel=\"noreferrer\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">#community</span></a></li><li value=\"3\" class=\"editor-listitem\"><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Telegram: </strong></b><a href=\"https://t.me/+BSV9eJCvsFg0Mjhh\" target=\"_blank\" rel=\"noreferrer\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">#libp2p</span></a></li><li value=\"4\" class=\"editor-listitem\"><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Matrix:</strong></b><span style=\"white-space: pre-wrap;\"> </span><a href=\"https://matrix.to/#/#libp2p-community:matrix.org\" target=\"_blank\" rel=\"noreferrer\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">libp2p-community</span></a></li></ul><p class=\"editor-paragraph\"><br></p>",
+  "tags": [
+    "Talks & Presentation",
+    "Workshop"
+  ],
+  "start_date": "2024-11-12T05:00:00.000Z",
+  "end_date": "2024-11-12T11:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "U Sathorn Bangkok",
+  "location_url": "https://www.google.com/maps/place/U+Sathorn+Bangkok/@13.7185844,100.5461262,17z/data=!4m9!3m8!1s0x30e29f3b8a35f03d:0x3fc10810de64a873!5m2!4m1!1i2!8m2!3d13.7185844!4d100.5461262!16s%2Fg%2F11byl6ks64?entry=tts&g_ep=EgoyMDI0MTAwOC4wIPu8ASoASAFQAw%3D%3D",
+  "meeting_platform": "",
+  "seat_count": "50-100",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "contact_infos": {
+    "twitter": [
+      "https://x.com/libp2p"
+    ]
+  },
+  "is_featured": false,
+  "conference": "labweek-24-web3",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2024-10-16T00:03:21.175Z",
+  "updatedAt": "2024-10-16T00:09:56.033Z",
+  "registration_link": "https://lu.ma/d7kx0r2s",
+  "website_link": "https://lu.ma/d7kx0r2s"
+}
