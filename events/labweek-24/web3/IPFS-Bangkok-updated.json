@@ -12,7 +12,7 @@
     "IPFS"
   ],
   "start_date": "2024-11-10T06:00:00.000Z",
-  "end_date": "2024-11-10T11:00:00.000Z",
+  "end_date": "2024-11-10T12:30:00.000Z",
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
@@ -24,28 +24,7 @@
   "registration_link": "https://lu.ma/ipfs-bangkok",
   "website_link": "https://lu.ma/ipfs-bangkok",
   "agenda": {
-    "sessions": [
-      {
-        "start_date": "2024-11-10T06:00:00.000Z",
-        "end_date": "2024-11-10T06:30:00.000Z",
-        "name": "Arrival & Networking + Registration"
-      },
-      {
-        "start_date": "2024-11-10T06:30:00.000Z",
-        "end_date": "2024-11-10T07:00:00.000Z",
-        "name": "Welcome + IPFS Overview"
-      },
-      {
-        "start_date": "2024-11-10T07:00:00.000Z",
-        "end_date": "2024-11-10T10:00:00.000Z",
-        "name": "Breakout Sessions (full topic schedule to come)"
-      },
-      {
-        "start_date": "2024-11-10T10:00:00.000Z",
-        "end_date": "2024-11-10T11:00:00.000Z",
-        "name": "Social Hour, Open Mic, + Networking"
-      }
-    ]
+    "sessions": []
   },
   "sponsors": [],
   "is_featured": false,
@@ -60,5 +39,5 @@
     "custom_fields": []
   },
   "createdAt": "2024-08-27T11:57:05.190Z",
-  "updatedAt": "2024-10-03T23:47:25.156Z"
+  "updatedAt": "2024-10-16T15:28:57.013Z"
 }
