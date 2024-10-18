@@ -1,0 +1,136 @@
+{
+  "event_contact_name": "lachrista",
+  "event_contact_email": "lachrista@plrs.xyz",
+  "secondary_contacts": [],
+  "event_name": "[REDACTED]",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729282848918_199.jpeg",
+  "host": "Near",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729283014158_958.png",
+  "co_hosts": [],
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">[REDACTED] is a global convergence to shape the future of User-Owned AI and Chain Abstraction—a future where technology belongs to the people, not corporations. Imagine stepping into a ‘Sovereign Paradise’ where the air buzzes with inspiration and opportunities to learn about AI and Web3. At [REDACTED], you’re not just attending another tech conference: you are contributing to a pivotal moment in the digital revolution. This IRL movement unifies the AI x Web3 collective as we embark on a transformative future.&nbsp;</span></p>",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2024-11-08T17:00:00.000Z",
+  "end_date": "2024-11-10T17:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "registration_link": "https://airtable.com/appdLXQkwmt4rqtW0/pag21sUeq3cAW994V/form",
+  "website_link": "https://redactedbangkok.ai",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [
+    {
+      "name": "Edge City",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729283264286_894.jpeg"
+    },
+    {
+      "name": "Agoric",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729283254109_418.jpeg"
+    },
+    {
+      "name": "Peersyst",
+      "logo": ""
+    },
+    {
+      "name": "Urbit",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729283491381_437.png"
+    },
+    {
+      "name": "Keypom",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729283496763_851.jpeg"
+    },
+    {
+      "name": "bitte",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729283606215_451.jpeg"
+    }
+  ],
+  "is_featured": false,
+  "is_hidden": false,
+  "conference": "labweek-24-web3",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2024-10-18T20:34:54.937Z",
+  "updatedAt": "2024-10-18T20:34:54.937Z"
+}
