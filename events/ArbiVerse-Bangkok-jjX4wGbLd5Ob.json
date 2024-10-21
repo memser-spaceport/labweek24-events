@@ -1,0 +1,133 @@
+{
+  "event_contact_name": "la christa",
+  "event_contact_email": "lachrista@plrs.xyz",
+  "secondary_contacts": [],
+  "event_name": "ArbiVerse Bangkok",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729529756425_921.jpeg",
+  "host": "Arbitrum",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729530029841_179.png",
+  "co_hosts": [],
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​Don't miss out on the 2nd edition of ArbiVerse hosted by the Arbitrum Foundation at Devcon 2024.</span></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​Step into an interactive and immersive world as we invite you to connect with industry leaders and collaborators who are transforming the ecosystem on Arbitrum and beyond.</span></p>",
+  "tags": [
+    "Workshop"
+  ],
+  "start_date": "2024-11-13T07:00:00.000Z",
+  "end_date": "2024-11-13T14:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "Register for Address",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "registration_link": "https://lu.ma/ArbiVerseBangkok?tk=X9BMPu",
+  "website_link": "https://lu.ma/ArbiVerseBangkok?tk=X9BMPu",
+  "agenda": {
+    "sessions": [
+      {
+        "name": "Registration and Exhibition/Booths Open",
+        "start_date": "2024-11-13T07:00:00.000Z",
+        "end_date": "2024-11-13T07:30:00.000Z"
+      },
+      {
+        "name": "Lunch Available",
+        "start_date": "2024-11-13T07:30:00.000Z",
+        "end_date": "2024-11-13T08:00:00.000Z"
+      },
+      {
+        "name": "Workshops ",
+        "start_date": "2024-11-13T08:00:00.000Z",
+        "end_date": "2024-11-13T11:00:00.000Z"
+      },
+      {
+        "name": "Night Market ",
+        "description": "Featuring a Live DJ, Local Food Vendors & Artisans",
+        "start_date": "2024-11-13T11:00:00.000Z",
+        "end_date": "2024-11-13T14:00:00.000Z"
+      }
+    ]
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "is_hidden": false,
+  "conference": "labweek-24-web3",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2024-10-21T17:04:31.422Z",
+  "updatedAt": "2024-10-21T17:04:31.422Z"
+}
