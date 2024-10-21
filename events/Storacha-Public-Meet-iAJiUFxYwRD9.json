@@ -2,27 +2,58 @@
   "event_contact_name": "lachrista",
   "event_contact_email": "lachrista@plrs.xyz",
   "secondary_contacts": [],
-  "event_name": "Storacha Public Meetup and Launch",
-  "event_logo": "",
+  "event_name": "Hot Ones & Zeros Party by Storacha",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729531584208_256.jpeg",
   "host": "Storacha",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1728488424583_116.png",
   "co_hosts": [],
-  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Details coming soon!</span><br><br><span style=\"white-space: pre-wrap;\">Storacha transforms web3.storage into a community-driven, decentralized hot storage network. Proven to handle petabytes of data with large enterprise support, Storacha effortlessly manages massive data flows. It's the ultimate scaling solution for IPFS, adding the perfect kick to storage and retrieval with incentives from Filecoin Storage Providers (SPs). Plus, it guarantees verifiable, user-owned data. Whether you’re scaling decentralized applications or infrastructure, Storacha delivers unmatched performance and reliability, seasoned to taste.&nbsp;</span></p>",
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Get ready to turn up the heat at&nbsp;</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Hot Ones and Zeros</strong></b><span style=\"white-space: pre-wrap;\">! We’re bringing the web3 community together for a night of delicious Thai cuisine, refreshing drinks, and a lineup that’s equal parts fun, fiery, and forward-thinking.</span></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​​Expect&nbsp;</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">sizzling conversations</strong></b><span style=\"white-space: pre-wrap;\">, a&nbsp;</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">spicy drag performance</strong></b><span style=\"white-space: pre-wrap;\">, and&nbsp;</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">red-hot networking</strong></b><span style=\"white-space: pre-wrap;\">&nbsp;as we dive into the latest innovations in DePin, AI, and gaming infrastructure.</span></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​Our&nbsp;</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">“Hot Ones” panel</strong></b><span style=\"white-space: pre-wrap;\">&nbsp;will feature top web3 founders tackling the industry’s hottest topics—while braving progressively spicier wings. Plus, enjoy a live drag performance from one of Thailand’s top performers, followed by a laid-back networking session.</span></p>",
   "tags": [
     "Talks & Presentation",
     "Social Event"
   ],
   "start_date": "2024-11-13T10:30:00.000Z",
-  "end_date": "2024-11-13T14:00:00.000Z",
+  "end_date": "2024-11-13T14:30:00.000Z",
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
   "location": "Chim Chim",
   "location_url": "https://maps.app.goo.gl/XMirvfjoeZUyt5go9",
   "meeting_platform": "",
-  "seat_count": "1-50",
+  "seat_count": "50-100",
   "agenda": {
-    "sessions": []
+    "sessions": [
+      {
+        "start_date": "2024-11-13T11:00:00.000Z",
+        "end_date": "2024-11-13T11:30:00.000Z",
+        "name": "Welcome and Keynote",
+        "description": "Kick things off with a bang as Storacha unveils what’s coming next in the world of decentralized storage."
+      },
+      {
+        "start_date": "2024-11-13T11:30:00.000Z",
+        "end_date": "2024-11-13T12:15:00.000Z",
+        "name": "\"Hot Ones\" Panel",
+        "description": "Watch top web3 founders break a sweat as they drop their spiciest takes on the future of decentralization - while tackling some seriously spicy wings! 🥁Participants will be announced soon 🥁"
+      },
+      {
+        "start_date": "2024-11-13T12:15:00.000Z",
+        "end_date": "2024-11-13T12:30:00.000Z",
+        "name": "Storacha Demo",
+        "description": "See how Storacha is lighting up the decentralized storage space with a live, interactive demo."
+      },
+      {
+        "start_date": "2024-11-13T12:30:00.000Z",
+        "end_date": "2024-11-13T13:00:00.000Z",
+        "name": "Drag Show",
+        "description": "Get ready for some fabulous, fierce performances!"
+      },
+      {
+        "start_date": "2024-11-13T13:00:00.000Z",
+        "end_date": "2024-11-13T14:30:00.000Z",
+        "name": "Networking & Social Hour",
+        "description": "Enjoy local thai bites while connecting with fellow devs, gamers, and investors in a fun, informal setting."
+      }
+    ]
   },
   "sponsors": [],
   "is_featured": false,
@@ -106,5 +137,7 @@
     "custom_fields": []
   },
   "createdAt": "2024-10-09T15:44:35.543Z",
-  "updatedAt": "2024-10-09T15:44:35.543Z"
+  "updatedAt": "2024-10-21T17:37:50.020Z",
+  "registration_link": "https://lu.ma/xh9ca6fs?tk=7snJoe",
+  "website_link": "https://lu.ma/xh9ca6fs?tk=7snJoe"
 }
