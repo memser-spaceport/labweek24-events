@@ -2,29 +2,34 @@
   "event_contact_name": "Sarah Thiam",
   "event_contact_email": "sarah@fil.builders",
   "secondary_contacts": [],
-  "event_name": "FIL-Builders Bangkok Meetup",
-  "event_logo": "",
+  "event_name": "Code & Corgi: Filecoin Builders Night",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729516142476_369.png",
   "host": "FIL-B",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1728878422686_544.jpeg",
   "co_hosts": [
     {
       "name": "Filecoin Foundation",
       "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1728878721543_212.png"
+    },
+    {
+      "name": "Polaris",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729516172916_35.png"
     }
   ],
-  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Event details coming soon!</span></p>",
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">Join us for a fun-filled evening of pizza, Bangkok street food, and all things Filecoin! 🥂</span></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​Connect with fellow builders, learn about exciting Filecoin use cases, and discover opportunities to get involved in the Filecoin ecosystem.</span></p><p class=\"editor-paragraph\"><br></p>",
   "tags": [
-    "Talks & Presentation"
+    "Talks & Presentation",
+    "Social Event"
   ],
-  "start_date": "2024-11-12T17:00:00.000Z",
-  "end_date": "2024-11-12T17:00:00.000Z",
+  "start_date": "2024-11-13T11:00:00.000Z",
+  "end_date": "2024-11-13T13:00:00.000Z",
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
   "location": "SOCO WORK & LIVE EmQuartier",
   "location_url": "https://maps.app.goo.gl/YR9sR2XJkCrfDWTr5",
   "meeting_platform": "",
-  "seat_count": "1-50",
+  "seat_count": "50-100",
   "agenda": {
     "sessions": []
   },
@@ -110,5 +115,7 @@
     "custom_fields": []
   },
   "createdAt": "2024-10-14T04:09:55.912Z",
-  "updatedAt": "2024-10-14T04:09:55.912Z"
+  "updatedAt": "2024-10-21T13:11:22.690Z",
+  "registration_link": "https://lu.ma/udulaer4?tk=ejHJ61",
+  "website_link": "https://lu.ma/udulaer4?tk=ejHJ61"
 }
