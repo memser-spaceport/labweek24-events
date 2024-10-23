@@ -1,9 +1,14 @@
 {
   "event_contact_name": "Sarah Thiam",
   "event_contact_email": "sarah@fil.builders",
-  "secondary_contacts": [],
+  "secondary_contacts": [
+    {
+      "name": "Rishikesh Kale",
+      "email": "rvk.rishikeshkale@gmail.com"
+    }
+  ],
   "event_name": "Code & Corgi: Filecoin Builders Night",
-  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729516142476_369.png",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729710281042_67.jpeg",
   "host": "FIL-B",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1728878422686_544.jpeg",
   "co_hosts": [
@@ -115,7 +120,7 @@
     "custom_fields": []
   },
   "createdAt": "2024-10-14T04:09:55.912Z",
-  "updatedAt": "2024-10-21T13:11:22.690Z",
+  "updatedAt": "2024-10-23T19:05:11.282Z",
   "registration_link": "https://lu.ma/udulaer4?tk=ejHJ61",
   "website_link": "https://lu.ma/udulaer4?tk=ejHJ61"
 }
