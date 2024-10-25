@@ -1,0 +1,122 @@
+{
+  "event_contact_name": "Takim",
+  "event_contact_email": "takim@cryptonomads.org",
+  "secondary_contacts": [
+    {
+      "name": "Jess",
+      "email": "team@cryptonomads.org"
+    }
+  ],
+  "event_name": "Intern Stories: Founder Confessions",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729836299411_354.png",
+  "host": "Crypto Nomads",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729835872765_535.jpeg",
+  "co_hosts": [],
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Hear candid tales of failure before success and other spicy takes from founders in a gangster themed speakeasy.</span></p>",
+  "tags": [
+    "Talks & Presentation",
+    "Social Event"
+  ],
+  "start_date": "2024-11-14T11:00:00.000Z",
+  "end_date": "2024-11-14T15:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "Shared on approval",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "registration_link": "https://gm.cryptonomads.org/intern-stories",
+  "website_link": "https://gm.cryptonomads.org/intern-stories",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "contact_infos": {
+    "twitter": [
+      "https://x.com/CryptoNomads_gm"
+    ]
+  },
+  "is_featured": false,
+  "is_hidden": false,
+  "conference": "labweek-24-web3",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2024-10-25T06:05:45.321Z",
+  "updatedAt": "2024-10-25T06:05:45.321Z"
+}
