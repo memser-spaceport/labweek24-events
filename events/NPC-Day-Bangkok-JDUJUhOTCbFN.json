@@ -7,7 +7,7 @@
   "host": "OP Games",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729205301383_510.png",
   "co_hosts": [],
-  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Welcome to the Bangkok install of “NPC Day”: a day dedicated to exploring theory, culture, and application behind the agents that add serendipity, color &amp; vibe to our onchain worlds. </span></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">We deviate from the norm of an NPC. Instead of boring, flat, agentless characters, we redefine NPCs by their ability to bring digital worlds to life — Autonomous agents, smart contract bots, and NFTs which can use their own wallet to enact change across the EVM.</span></p>",
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Welcome to the Bangkok install of “NPC Day”: a day dedicated to exploring theory, culture, and application behind the agents that add serendipity, color &amp; vibe to our onchain worlds. </span></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">We deviate from the norm of an NPC. Instead of boring, flat, agentless characters, we redefine NPCs by their ability to bring digital worlds to life — Autonomous agents, smart contract bots, and NFTs which can use their own wallet to enact change across the EVM.</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><br></p><p class=\"editor-paragraph\" dir=\"ltr\"><i><em class=\"editor-text-italic\" style=\"white-space: pre-wrap;\">NPC Day is part of LabWeek Web3, the decentralized conference by Protocol Labs.</em></i><br></p><p class=\"editor-paragraph\" dir=\"ltr\"><i><em class=\"editor-text-italic\" style=\"white-space: pre-wrap;\">LabWeek Web3 is designed by builders, for builders, with a focus on securing digital human rights and making the internet more equitable for all.</em></i></p>",
   "tags": [
     "Talks & Presentation",
     "Workshop",
@@ -119,5 +119,5 @@
     "custom_fields": []
   },
   "createdAt": "2024-10-17T22:51:20.398Z",
-  "updatedAt": "2024-10-17T22:51:20.398Z"
+  "updatedAt": "2024-10-25T20:18:52.484Z"
 }
