@@ -1,0 +1,134 @@
+{
+  "event_contact_name": "lachrista",
+  "event_contact_email": "lachrista@plrs.xyz",
+  "secondary_contacts": [],
+  "event_name": "L2con",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729782319807_485.png",
+  "host": "Epic Web3",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729782459706_408.jpeg",
+  "co_hosts": [
+    {
+      "name": "TAC",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729782629900_460.jpeg"
+    }
+  ],
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">L2con, Bangkok</strong></b><span style=\"white-space: pre-wrap;\">&nbsp;is the largest conference during Devcon dedicated to L2s, Modularity, and Infrastructure for Web3 developers and founders.</span></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​Don't miss the opportunity to gain insights into recent technological updates, explore in-depth case studies, and discuss practicals in Layer 2 Scaling!</span></p>",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2024-11-13T03:00:00.000Z",
+  "end_date": "2024-11-13T11:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "Waldorf Astoria Bangkok",
+  "location_url": "https://maps.app.goo.gl/VZPz977yPNXpveGy7",
+  "meeting_platform": "",
+  "seat_count": "200-300",
+  "registration_link": "https://lu.ma/l2conbangkok",
+  "website_link": "https://lu.ma/l2conbangkok",
+  "agenda": {
+    "sessions": [
+      {
+        "name": "Doors opening and networking",
+        "start_date": "2024-11-13T03:00:00.000Z",
+        "end_date": "2024-11-13T04:00:00.000Z"
+      },
+      {
+        "name": "Keynotes, workshops, and panel discussions:",
+        "description": "​1.  The Growth and Adoption of Layer 2 Solutions\n\n​2.  Advancing Layer 2: Next-Gen Solutions and Breakthroughs\n\n3.  ​Integrating L2 Innovations: Cross-Chain Collaborations and Hybrid Models\n\n​4.  The Power of Modularity: Unlocking Customization and Flexibility\n\n5.  ​Making everything ZK? Challenges and Solutions\n\n6.  ​Rolling Up the Future: Interoperability and Cross-Chain Functionality\n\n​7.  Chain Abstraction: Technological and Practical Implementations (approximate title)\n\n​8.  Ethereum Infrastructure",
+        "start_date": "2024-11-13T04:00:00.000Z",
+        "end_date": "2024-11-13T10:30:00.000Z"
+      },
+      {
+        "name": "Drinks, networking!",
+        "start_date": "2024-11-13T10:30:00.000Z",
+        "end_date": "2024-11-13T11:00:00.000Z"
+      }
+    ]
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "is_hidden": false,
+  "conference": "labweek-24-web3",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2024-10-24T15:28:45.059Z",
+  "updatedAt": "2024-10-24T15:28:45.059Z"
+}
