@@ -1,0 +1,152 @@
+{
+  "event_contact_name": "lachrista",
+  "event_contact_email": "lachrista@plrs.xyz",
+  "secondary_contacts": [],
+  "event_name": "Restaking & Infra Day | Devcon Bangkok",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729780165807_788.png",
+  "host": "Epic Web3",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729780281488_125.jpeg",
+  "co_hosts": [],
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">Our 4th Restaking &amp; Infra Day at Devcon 2024! 🚀 It will be a full day of keynotes, workshops and panel discussions about recent advancements in the restaking field:</span></p><ul class=\"editor-list-ul\"><li value=\"1\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">​Liquid restaking and staking;</span></li><li value=\"2\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">​Oracles and other AVSs;</span></li><li value=\"3\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">​ZK Coprocessors and Layer 2 solutions;</span></li><li value=\"4\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">​Restaking on BTC, Cosmos and other chains;</span></li><li value=\"5\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">​Security and risks of restaking.</span></li></ul>",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2024-11-12T03:00:00.000Z",
+  "end_date": "2024-11-12T10:30:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "Bangkok Marriott Hotel The Surawongse",
+  "location_url": "https://maps.app.goo.gl/MPSWRju4qp3Kye839",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "registration_link": "https://lu.ma/restakingbangkok",
+  "website_link": "https://lu.ma/restakingbangkok",
+  "agenda": {
+    "sessions": [
+      {
+        "name": "Doors opening, networking, 🍕food & drinks🥤",
+        "start_date": "2024-11-12T03:00:00.000Z",
+        "end_date": "2024-11-12T04:00:00.000Z"
+      },
+      {
+        "name": "Keynotes, workshops and panel discussions",
+        "start_date": "2024-11-12T04:00:00.000Z",
+        "end_date": "2024-11-12T10:00:00.000Z"
+      },
+      {
+        "name": "Panel Discussion",
+        "description": "Tees Integration:  Balancing Security and Scalability in DeFi Restaking",
+        "start_date": "2024-11-12T05:00:00.000Z",
+        "end_date": "2024-11-12T05:40:00.000Z"
+      },
+      {
+        "name": "Panel Discussion",
+        "description": "Maximizing Yield with LRTs: Strategies and Risks in the New DeFi Landscape\" with ZeroLend, Ether. fi, Pendle, Lido and more",
+        "start_date": "2024-11-12T05:40:00.000Z",
+        "end_date": "2024-11-12T06:20:00.000Z"
+      },
+      {
+        "name": "Panel Discussion",
+        "description": "Restaking Infrastructure: Needs, Challenges, and Vision\" with Eigen, Tanssi, Pi2, Puffer and more",
+        "start_date": "2024-11-12T07:20:00.000Z",
+        "end_date": "2024-11-12T08:00:00.000Z"
+      },
+      {
+        "name": "Restaking",
+        "description": "The State of Play, Major Results, Downsides of 2024, and 2025 Forecast\" with Eigen, Renzo, Symbiotic and more",
+        "start_date": "2024-11-12T08:00:00.000Z",
+        "end_date": "2024-11-12T08:40:00.000Z"
+      },
+      {
+        "name": "Networking! ",
+        "start_date": "2024-11-12T08:40:00.000Z",
+        "end_date": "2024-11-12T10:00:00.000Z"
+      }
+    ]
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "is_hidden": false,
+  "conference": "labweek-24-web3",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2024-10-24T14:40:01.785Z",
+  "updatedAt": "2024-10-24T17:22:54.922Z"
+}
