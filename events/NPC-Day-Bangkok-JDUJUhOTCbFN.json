@@ -29,7 +29,53 @@
   "registration_link": "https://lu.ma/6thssy89",
   "website_link": "https://lu.ma/6thssy89",
   "agenda": {
-    "sessions": []
+    "sessions": [
+      {
+        "start_date": "2024-11-15T03:00:00.000Z",
+        "end_date": "2024-11-15T03:30:00.000Z",
+        "name": "Check-in + Networking"
+      },
+      {
+        "start_date": "2024-11-15T03:30:00.000Z",
+        "end_date": "2024-11-15T03:45:00.000Z",
+        "name": "Introduction to NPC Day"
+      },
+      {
+        "start_date": "2024-11-15T03:45:00.000Z",
+        "end_date": "2024-11-15T04:15:00.000Z",
+        "name": "Culture Keynote by Andy Tudhope"
+      },
+      {
+        "start_date": "2024-11-15T04:15:00.000Z",
+        "end_date": "2024-11-15T04:45:00.000Z",
+        "name": "Tech Keynote on NFT 2.0 NPCs by Tim Cotten"
+      },
+      {
+        "start_date": "2024-11-15T04:45:00.000Z",
+        "end_date": "2024-11-15T05:00:00.000Z",
+        "name": "Creating Web 3.0 Games Together at OP Guild"
+      },
+      {
+        "start_date": "2024-11-15T05:00:00.000Z",
+        "end_date": "2024-11-15T06:00:00.000Z",
+        "name": "Lunch"
+      },
+      {
+        "start_date": "2024-11-15T06:00:00.000Z",
+        "end_date": "2024-11-15T06:45:00.000Z",
+        "name": "Permissionless Games by Neeraj Kashyap"
+      },
+      {
+        "start_date": "2024-11-15T06:45:00.000Z",
+        "end_date": "2024-11-15T07:15:00.000Z",
+        "name": "Building Multiplayer AI Games using Cosmic Engine"
+      },
+      {
+        "start_date": "2024-11-15T07:15:00.000Z",
+        "end_date": "2024-11-15T10:00:00.000Z",
+        "name": "Talks and Workshop (Full details coming soon)"
+      }
+    ]
   },
   "sponsors": [],
   "contact_infos": {
@@ -119,5 +165,5 @@
     "custom_fields": []
   },
   "createdAt": "2024-10-17T22:51:20.398Z",
-  "updatedAt": "2024-10-25T20:18:52.484Z"
+  "updatedAt": "2024-10-25T20:38:54.349Z"
 }
