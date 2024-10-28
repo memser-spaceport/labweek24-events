@@ -2,22 +2,23 @@
   "event_contact_name": "Nidhi Soni",
   "event_contact_email": "nidhi.soni@protocol.ai",
   "secondary_contacts": [],
-  "event_name": "Aspiring Founders Dinner",
-  "event_logo": "",
-  "host": "Orange DAO",
-  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729514606189_541.jpeg",
+  "event_name": "Aspiring Founders Workshop and Dinner with Juan Benet",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730118231257_540.jpeg",
+  "host": "Protocol Labs Venture Studio ",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730118262407_457.png",
   "co_hosts": [
     {
-      "name": "Near",
-      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729514648985_938.png"
+      "name": "Filecoin Foundation",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730118316773_155.jpeg"
     }
   ],
-  "description": "",
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">Join an exclusive community of 40 builders and pioneers who are shaping the future of decentralised networks where you'll:</span></p><ul class=\"editor-list-ul\"><li value=\"1\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">​</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Connect</strong></b><span style=\"white-space: pre-wrap;\">&nbsp;with other web3 builders and experts&nbsp;</span></li><li value=\"2\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">​</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Collaborate</strong></b><span style=\"white-space: pre-wrap;\">&nbsp;on ideas, discuss challenges, and explore the next big innovations in decentralised technologies.</span></li><li value=\"3\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">​</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Build</strong></b><span style=\"white-space: pre-wrap;\">&nbsp;relationships with people who share your ambition to make a lasting impact in web3.</span></li></ul><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​</span><i><b><strong class=\"editor-text-bold editor-text-italic\" style=\"white-space: pre-wrap;\">Juan Benet</strong></b></i><span style=\"white-space: pre-wrap;\">&nbsp;is the founder of Protocol Labs, IPFS, libp2p and Filecoin and a leader in various crypto movements which include, Public Goods Funding, Crecimiento (crypto nation in Argentina), etc.&nbsp;</span></p>",
   "tags": [
-    "Social Event"
+    "Social Event",
+    "Workshop"
   ],
-  "start_date": "2024-11-11T12:00:00.000Z",
-  "end_date": "2024-11-11T16:30:00.000Z",
+  "start_date": "2024-11-10T12:00:00.000Z",
+  "end_date": "2024-11-11T16:00:00.000Z",
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
@@ -110,5 +111,5 @@
     "custom_fields": []
   },
   "createdAt": "2024-10-21T12:44:46.585Z",
-  "updatedAt": "2024-10-21T12:44:46.585Z"
+  "updatedAt": "2024-10-28T12:26:38.493Z"
 }
