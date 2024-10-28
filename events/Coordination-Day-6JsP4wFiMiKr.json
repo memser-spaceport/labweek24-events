@@ -3,7 +3,7 @@
   "event_contact_email": "heliosgopher@gmail.com",
   "secondary_contacts": [],
   "event_name": "Coordination Day",
-  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1728746143005_538.png",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730138126943_510.jpeg",
   "host": "LXDAO",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1728746135244_647.png",
   "co_hosts": [],
@@ -11,8 +11,8 @@
   "tags": [
     "Talks & Presentation"
   ],
-  "start_date": "2024-11-11T02:00:00.000Z",
-  "end_date": "2024-11-11T08:00:00.000Z",
+  "start_date": "2024-11-11T01:00:00.000Z",
+  "end_date": "2024-11-11T06:00:00.000Z",
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
@@ -112,5 +112,7 @@
     "custom_fields": []
   },
   "createdAt": "2024-10-12T15:18:56.693Z",
-  "updatedAt": "2024-10-14T02:25:49.659Z"
+  "updatedAt": "2024-10-28T17:56:14.942Z",
+  "registration_link": "https://lu.ma/85a84z21",
+  "website_link": "https://lu.ma/85a84z21"
 }
