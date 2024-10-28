@@ -20,7 +20,7 @@
   "location_url": "https://maps.app.goo.gl/a7Znvb9hvRybg5Ks7",
   "meeting_platform": "",
   "seat_count": "50-100",
-  "registration_link": "https://www.eventbrite.com/e/superintelligence-summit-tickets-978174735967",
+  "registration_link": "https://lu.ma/SuperintelligenceSummit",
   "agenda": {
     "sessions": []
   },
@@ -140,5 +140,6 @@
     "custom_fields": []
   },
   "createdAt": "2024-10-08T08:25:08.906Z",
-  "updatedAt": "2024-10-08T08:25:08.906Z"
+  "updatedAt": "2024-10-28T17:46:01.493Z",
+  "website_link": "https://lu.ma/SuperintelligenceSummit"
 }
