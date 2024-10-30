@@ -2,7 +2,7 @@
   "event_contact_name": "Elsa",
   "event_contact_email": "elsa@fil.org",
   "secondary_contacts": [],
-  "event_name": "FIL Bangkok Co-Working Space",
+  "event_name": "FIL Bangkok",
   "event_logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/FILBankok_Social.png",
   "host": "Filecoin Foundation",
   "host_logo": "https://plabs-assets.s3.us-west-1.amazonaws.com/images/Filecoin-Foundation_logo-LW24-Web3.png",
@@ -12,7 +12,7 @@
     "Public Goods"
   ],
   "start_date": "2024-11-06T02:00:00.000Z",
-  "end_date": "2024-11-08T11:00:00.000Z",
+  "end_date": "2024-11-12T11:00:00.000Z",
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
@@ -30,7 +30,7 @@
   "is_featured": false,
   "conference": "labweek-24-web3",
   "createdAt": "2024-08-23T10:49:57.210Z",
-  "updatedAt": "2024-09-23T13:05:54.187Z",
+  "updatedAt": "2024-10-30T06:56:02.622Z",
   "nft_ticketing": {
     "verifier_wallet_addresses": [],
     "verifier_email_addresses": [],
@@ -39,5 +39,6 @@
     "default_fields": [],
     "additional_fields": [],
     "custom_fields": []
-  }
+  },
+  "is_hidden": true
 }
