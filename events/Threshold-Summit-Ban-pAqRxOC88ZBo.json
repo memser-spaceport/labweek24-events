@@ -3,7 +3,7 @@
   "event_contact_email": "patrick@randa.mu",
   "secondary_contacts": [],
   "event_name": "Threshold Summit Bangkok",
-  "event_logo": "",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730314430542_684.jpeg",
   "host": "Randamu",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1728635104354_914.png",
   "co_hosts": [],
@@ -21,7 +21,7 @@
   "location_url": "https://maps.app.goo.gl/KCjAmioqDNaMa1ud6",
   "meeting_platform": "",
   "seat_count": "1-50",
-  "registration_link": "https://lu.ma/2hqvjjzl",
+  "registration_link": "https://lu.ma/2hqvjjzl?tk=RVaDT4",
   "agenda": {
     "sessions": []
   },
@@ -112,5 +112,6 @@
     "custom_fields": []
   },
   "createdAt": "2024-10-11T08:27:32.672Z",
-  "updatedAt": "2024-10-11T08:27:32.672Z"
+  "updatedAt": "2024-10-30T18:57:53.501Z",
+  "website_link": "https://lu.ma/2hqvjjzl?tk=RVaDT4"
 }
