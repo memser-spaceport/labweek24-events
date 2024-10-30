@@ -1,0 +1,197 @@
+{
+  "event_contact_name": "lachrista",
+  "event_contact_email": "lachrista@plrs.xyz",
+  "secondary_contacts": [],
+  "event_name": "Investing in AI",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730312957764_257.png",
+  "host": "Supermoon",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730312981873_665.jpeg",
+  "co_hosts": [
+    {
+      "name": "Peanut Trade",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730313046109_549.jpeg"
+    },
+    {
+      "name": "Bitte Protocol",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730313068051_251.jpeg"
+    },
+    {
+      "name": "Techstars",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730313217683_637.png"
+    }
+  ],
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">We’ve rounded up the usual suspects (aka thought leaders) and forced them to talk about things that actually matter. No fluff, no buzzwords—just real conversations about the stuff everyone pretends to understand.</span></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​Join us if you're tired of the same old AI hype cycle and want something refreshingly honest… or at least entertaining.​</span></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​Speakers include:</span></p><ul class=\"editor-list-ul\"><li value=\"1\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">​​Robert Le,&nbsp;</span><a href=\"https://www.supermoonventures.com/\" target=\"_blank\" rel=\"nofollow noopener\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">Supermoon Ventures</span></a></li><li value=\"2\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">​​Anirudh Pai,&nbsp;</span><a href=\"https://www.dragonfly.xyz/\" target=\"_blank\" rel=\"nofollow noopener\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">Dragonfly</span></a></li><li value=\"3\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">​​Amit Mehra,&nbsp;</span><a href=\"https://borderlesscapital.io/\" target=\"_blank\" rel=\"nofollow noopener\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">Borderless</span></a></li><li value=\"4\" class=\"editor-listitem\"><a href=\"https://directory.plnetwork.io/members/cldvommb409tlu21kradd3rpm\" target=\"_blank\" rel=\"noreferrer\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">​​Clara Tsao</span></a><span style=\"white-space: pre-wrap;\">,&nbsp;</span><a href=\"https://www.fil.org/\" target=\"_blank\" rel=\"nofollow noopener\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">Filecoin Foundation</span></a></li><li value=\"5\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">​Ryan Barney,&nbsp;</span><a href=\"https://panteracapital.com/\" target=\"_blank\" rel=\"nofollow noopener\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">Pantera Capital</span></a></li><li value=\"6\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">​Ben Lakoff,&nbsp;</span><a href=\"https://www.bankless.ventures/\" target=\"_blank\" rel=\"nofollow noopener\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">Bankless Ventures</span></a></li><li value=\"7\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">​Pete Townsend,&nbsp;</span><a href=\"https://www.techstars.com/\" target=\"_blank\" rel=\"nofollow noopener\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">Techstars Web3</span></a></li><li value=\"8\" class=\"editor-listitem\"><span style=\"white-space: pre-wrap;\">​Alex Momot,&nbsp;</span><a href=\"https://peanut.trade/home\" target=\"_blank\" rel=\"nofollow noopener\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">Peanut Trade</span></a></li></ul>",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2024-11-12T03:00:00.000Z",
+  "end_date": "2024-11-12T10:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "registration_link": "https://lu.ma/mdjyr9wx",
+  "website_link": "https://lu.ma/mdjyr9wx",
+  "agenda": {
+    "sessions": [
+      {
+        "name": "Breakfast",
+        "start_date": "2024-11-12T03:00:00.000Z",
+        "end_date": "2024-11-12T04:00:00.000Z"
+      },
+      {
+        "name": "Panel",
+        "description": "AI Agent Workshop & Dev mentoring session",
+        "start_date": "2024-11-12T04:00:00.000Z",
+        "end_date": "2024-11-12T05:00:00.000Z"
+      },
+      {
+        "name": "Panel",
+        "description": "Technical AI Panel",
+        "start_date": "2024-11-12T05:00:00.000Z",
+        "end_date": "2024-11-12T05:30:00.000Z"
+      },
+      {
+        "name": "Lunch",
+        "start_date": "2024-11-12T05:30:00.000Z",
+        "end_date": "2024-11-12T06:30:00.000Z"
+      },
+      {
+        "name": "Panel",
+        "description": "Keynote: Build the future of decentralized and secure AI with Mind Network",
+        "start_date": "2024-11-12T06:30:00.000Z",
+        "end_date": "2024-11-12T06:50:00.000Z"
+      },
+      {
+        "name": "Panel",
+        "description": "DeAI & Censorship: Breaking Free From The Big Tech",
+        "start_date": "2024-11-12T07:00:00.000Z",
+        "end_date": "2024-11-12T07:25:00.000Z"
+      },
+      {
+        "name": "Q&A",
+        "start_date": "2024-11-12T07:25:00.000Z",
+        "end_date": "2024-11-12T07:40:00.000Z"
+      },
+      {
+        "name": "Panel",
+        "description": "DeAI Realities: What VCs Are Looking for and How to Succeed ",
+        "start_date": "2024-11-12T07:45:00.000Z",
+        "end_date": "2024-11-12T08:15:00.000Z"
+      },
+      {
+        "name": "Q&A",
+        "start_date": "2024-11-12T08:15:00.000Z",
+        "end_date": "2024-11-12T08:30:00.000Z"
+      },
+      {
+        "name": "Fishbowl debate / Networking",
+        "start_date": "2024-11-12T08:35:00.000Z",
+        "end_date": "2024-11-12T09:15:00.000Z"
+      }
+    ]
+  },
+  "sponsors": [
+    {
+      "name": "Units Powered by Wave",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730313674368_930.jpeg"
+    },
+    {
+      "name": "GLIF",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730313711523_279.png"
+    },
+    {
+      "name": "Cointelegraph Accelerator",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730313783260_133.jpeg"
+    },
+    {
+      "name": "DoraHacks",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730313813884_475.jpeg"
+    }
+  ],
+  "is_featured": false,
+  "is_hidden": false,
+  "conference": "labweek-24-web3",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2024-10-30T18:43:44.445Z",
+  "updatedAt": "2024-10-30T18:43:44.445Z"
+}
