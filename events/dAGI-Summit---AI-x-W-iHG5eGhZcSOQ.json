@@ -1,0 +1,157 @@
+{
+  "event_contact_name": "lachrista",
+  "event_contact_email": "lachrista@plrs.xyz",
+  "secondary_contacts": [],
+  "event_name": "dAGI Summit - AI x Web3 | Devcon Bangkok",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730344306643_541.png",
+  "host": "Epic Web3",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730344451560_261.jpeg",
+  "co_hosts": [
+    {
+      "name": "cyber*Fund",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730344541028_727.jpeg"
+    }
+  ],
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​Join us for the&nbsp;</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">dAGI Summit 2024 in Bangkok</strong></b><span style=\"white-space: pre-wrap;\">, where visionaries, innovators, and pioneers will gather to explore the powerful convergence of AI and Web3. Together, we will push the boundaries of what’s possible in building a decentralized, transparent, and equitable future for AGI.</span></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​This is more than just a conference; it’s&nbsp;</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">a one-day pre-Devcon movement&nbsp;</strong></b><span style=\"white-space: pre-wrap;\">that will unite startups, investors, developers, and forward-thinkers at the forefront of AI and blockchain technology.</span></p>",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2024-11-11T05:00:00.000Z",
+  "end_date": "2024-11-11T12:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "The Quarter Chao Phraya by UHG",
+  "location_url": "https://maps.app.goo.gl/7G9vQZPDZqmCNotN6",
+  "meeting_platform": "",
+  "seat_count": "300-400",
+  "registration_link": "https://lu.ma/dagisummit",
+  "website_link": "https://lu.ma/dagisummit",
+  "agenda": {
+    "sessions": [
+      {
+        "name": " Welcome Coffee & Networking",
+        "description": "Connect with passionate minds over fresh brews and bites ☕️🥐",
+        "start_date": "2024-11-11T05:00:00.000Z",
+        "end_date": "2024-11-11T06:00:00.000Z"
+      },
+      {
+        "name": "Keynotes & Discussions",
+        "description": "Join top experts from ORA Protocol, Valory and Olas, cyber•Fund, Filecoin, Pluralis.ai, Spheron Network, Assisterr, Gagra Ventures, ZettaBlock, Fluence, and more,\nto learn insights on these topics:\n\n- DeAI and the Battle for Control: Politics, Big Tech, and Regulation\n- Building Decentralized Compute Network State\n- DeAI Infra & Co-Owned AI: Paving the Way for Superior Foundation Models\n- Scaling AI with Blockchain and DePIN: New Horizons for Compute and ML Models\n- Building AI Together: Decentralized Training & Collaborative Intelligence\n- What to build for the post-AGI world?\n- The open platform for AI 3.0. Economy: Scaling AI with open access to data and models,\nand more to be announced soon!\n",
+        "start_date": "2024-11-11T06:00:00.000Z",
+        "end_date": "2024-11-11T11:00:00.000Z"
+      },
+      {
+        "name": "Hackers Happy Hour🍹",
+        "description": "Get ready for the upcoming dAGI Hack - connect with builders and partners, discuss the AI x Crypto ideas and projects.\n\n",
+        "start_date": "2024-11-11T11:00:00.000Z",
+        "end_date": "2024-11-11T12:00:00.000Z"
+      }
+    ]
+  },
+  "sponsors": [
+    {
+      "name": "Assisterr AI",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730345224765_169.jpeg"
+    },
+    {
+      "name": "Spheron",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730345359975_662.jpeg"
+    },
+    {
+      "name": "ZettaBlock",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730345433531_647.jpeg"
+    },
+    {
+      "name": "Fluence",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730345490797_138.jpeg"
+    },
+    {
+      "name": "Gagra Ventures",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730345956299_613.png"
+    }
+  ],
+  "is_featured": false,
+  "is_hidden": false,
+  "conference": "labweek-24-web3",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2024-10-31T03:39:27.396Z",
+  "updatedAt": "2024-10-31T03:39:27.396Z"
+}
