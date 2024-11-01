@@ -21,7 +21,7 @@
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
-  "location": "Register for address",
+  "location": "Guilty Bangkok,  Anantara Siam Bangkok Hotel",
   "meeting_platform": "",
   "seat_count": "1-50",
   "registration_link": "https://lu.ma/6rrev4ba",
@@ -112,5 +112,6 @@
     "custom_fields": []
   },
   "createdAt": "2024-10-18T07:29:09.886Z",
-  "updatedAt": "2024-10-18T07:29:09.886Z"
+  "updatedAt": "2024-11-01T14:52:42.501Z",
+  "location_url": "https://maps.app.goo.gl/uEkjdEyzEyejoL259"
 }
