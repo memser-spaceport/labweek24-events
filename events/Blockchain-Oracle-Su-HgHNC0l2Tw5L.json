@@ -1,0 +1,231 @@
+{
+  "event_contact_name": "lachrista",
+  "event_contact_email": "lachrista@plrs.xyz",
+  "secondary_contacts": [],
+  "event_name": "Blockchain Oracle Summit",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730424234857_987.jpeg",
+  "host": "Party action People",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730424316266_330.jpeg",
+  "co_hosts": [],
+  "description": "<h4 class=\"editor-heading-h4\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">The Blockchain Oracle Summit brings everyone working in and around oracles together — driving innovation and collaboration in the future of data.</span></h4>",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2024-11-11T03:00:00.000Z",
+  "end_date": "2024-11-11T13:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "agenda": {
+    "sessions": [
+      {
+        "name": "Registration & Breakfast",
+        "start_date": "2024-11-11T03:00:00.000Z",
+        "end_date": "2024-11-11T04:00:00.000Z"
+      },
+      {
+        "name": "Opening Statement",
+        "start_date": "2024-11-11T04:00:00.000Z",
+        "end_date": "2024-11-11T04:05:00.000Z"
+      },
+      {
+        "name": "Keynote",
+        "description": "Brenda Loya, Co-Founder, Tellor",
+        "start_date": "2024-11-11T04:05:00.000Z",
+        "end_date": "2024-11-11T04:25:00.000Z"
+      },
+      {
+        "start_date": "2024-11-11T04:25:00.000Z",
+        "end_date": "2024-11-11T05:10:00.000Z",
+        "name": "Panel",
+        "description": "Oracle Extractable Value (OEV): Unlocking New Revenue Models and Sustainability for Oracles & Dapps\nSpeakers:  Ugur Mersinlioglu, API3, Ariah Klages-Mundt, Gyroscope, Tesa Ho, Flashbots, Hart Lambur, UMA\nModerator:  Shayan Eskandari, theCreed.xyz\n"
+      },
+      {
+        "start_date": "2024-11-11T05:10:00.000Z",
+        "end_date": "2024-11-11T05:30:00.000Z",
+        "name": "Keynote",
+        "description": "Ugur Mersinlioglu, Strategy Lead, API3"
+      },
+      {
+        "start_date": "2024-11-11T05:30:00.000Z",
+        "end_date": "2024-11-11T05:40:00.000Z",
+        "name": "Keynote",
+        "description": "Nate | eatsleepcrypto, Founder, Token Dynamics"
+      },
+      {
+        "start_date": "2024-11-11T05:40:00.000Z",
+        "end_date": "2024-11-11T05:47:00.000Z",
+        "name": "Keynote",
+        "description": "Filip Koprivec, Head of Developer Relations, Flare"
+      },
+      {
+        "start_date": "2024-11-11T05:47:00.000Z",
+        "end_date": "2024-11-11T06:00:00.000Z",
+        "name": "Keynote",
+        "description": "Patrick McClurg, CTO, Randamu"
+      },
+      {
+        "start_date": "2024-11-11T06:00:00.000Z",
+        "end_date": "2024-11-11T06:45:00.000Z",
+        "name": "Panel",
+        "description": "Decentralised Interoperability: Striking the Balance in Cross-Chain Messaging and Bridge Design\nSpeakers:  Thomas Bertani, Hashi Alliance, Layne Haber, Everclear, Angus Lamps, Stargate Finance, Nikhil Suri, Wormhole Foundation, Filip Koprivec, Flare\nModerator:  Sebastian Bürgel, Gnosis\n"
+      },
+      {
+        "start_date": "2024-11-11T06:45:00.000Z",
+        "end_date": "2024-11-11T07:15:00.000Z",
+        "name": "Lunch & Networking"
+      },
+      {
+        "start_date": "2024-11-11T07:15:00.000Z",
+        "end_date": "2024-11-11T08:00:00.000Z",
+        "name": "Panel",
+        "description": "DAOs: Navigating Governance Challenges with Oracles\nSpeakers:  Edmund Edgar, Reality.eth, Doo Wan Nam, StableLab, Anthony Leutenegger, Aragon, Vaughn McKenzie-Landell, Butter\nModerator:  Traver Normandi, Gauntlet"
+      },
+      {
+        "start_date": "2024-11-11T08:00:00.000Z",
+        "end_date": "2024-11-11T08:15:00.000Z",
+        "name": "Keynote",
+        "description": "Clement Lesaege, Founder, Kleros"
+      },
+      {
+        "start_date": "2024-11-11T08:15:00.000Z",
+        "end_date": "2024-11-11T08:35:00.000Z",
+        "name": "Fireside Chat",
+        "description": "Oracles in Prediction Markets\nSpeakers:  CJ Hetherington, Limitless Labs, Rossen Yordanov, Azuro, Ivan Fartunov, karpatkey"
+      },
+      {
+        "start_date": "2024-11-11T08:35:00.000Z",
+        "end_date": "2024-11-11T08:55:00.000Z",
+        "name": "Fireside Chat",
+        "description": "Oracles Powering On-Chain RWAs\nSpeakers:  Niklas Kunkel, Chronicle, Lucas Vogelsang, Centrifuge"
+      },
+      {
+        "start_date": "2024-11-11T08:55:00.000Z",
+        "end_date": "2024-11-11T09:40:00.000Z",
+        "name": "Panel",
+        "description": " Censorship-Resistant Protocols: Oracle-Less vs. Oracle-Integrated Approaches\nSpeaker:  Brenda Loya, Tellor, Torgin Mackinga, Chain Security, David Utrobin, Anja Protocol, Omer Goldberg, Chaos Labs, Aditya Arora, Pyth Data Association"
+      },
+      {
+        "start_date": "2024-11-11T09:40:00.000Z",
+        "end_date": "2024-11-11T09:55:00.000Z",
+        "name": "What’s Stopping DeFi from Competing with TradFi?",
+        "description": "Aditya Arora, Head of Developer Relations, Pyth Data Association"
+      },
+      {
+        "start_date": "2024-11-11T09:55:00.000Z",
+        "end_date": "2024-11-11T10:45:00.000Z",
+        "name": "Panel",
+        "description": "Approaches to Oracle Management in Decentralized Lending Markets\nSpeakers:  Niklas Kunkel, Chronicle, Marcin Kazmierczak, RedStone Oracles, Mateo Pedroza, Venua Protocol, Emilio Frangella, Aave Labs\nModerator:  Michael Lewellen, OpenZeppelin"
+      },
+      {
+        "start_date": "2024-11-11T10:45:00.000Z",
+        "end_date": "2024-11-11T11:00:00.000Z",
+        "name": "Keynote"
+      },
+      {
+        "start_date": "2024-11-11T11:00:00.000Z",
+        "end_date": "2024-11-11T11:10:00.000Z",
+        "name": "Keynote",
+        "description": "Tarun Chitra, CEO/Founder, Gauntlet"
+      },
+      {
+        "start_date": "2024-11-11T11:10:00.000Z",
+        "end_date": "2024-11-11T11:55:00.000Z",
+        "name": "Panel",
+        "description": "Restaking and the Future of Oracles: Unlocking New Use Cases in AVS\nSpeaker:  Ismael Hishon-Rezaizadeh, Lagrange, Felix Lutsch, Symbiotic, Matan Si, eOracle, Luke Hajdukiewicz, Eigen Labs\nModerator:  Tarun Chitra, Gauntlet"
+      },
+      {
+        "start_date": "2024-11-11T12:00:00.000Z",
+        "end_date": "2024-11-11T13:00:00.000Z",
+        "name": "Networking Drinks"
+      }
+    ]
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "is_hidden": false,
+  "conference": "labweek-24-web3",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2024-11-01T01:42:33.179Z",
+  "updatedAt": "2024-11-01T02:42:48.474Z"
+}
