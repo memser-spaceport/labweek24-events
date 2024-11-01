@@ -111,6 +111,18 @@
         "end_date": "2024-11-08T07:30:00.000Z",
         "name": "Making a Decentralized Consumer Price Index (CPI)",
         "description": "A Paradigm Shift in Economic Transparency\nMain Stage:  Brenda Loya (Tellor)"
+      },
+      {
+        "start_date": "2024-11-08T07:30:00.000Z",
+        "end_date": "2024-11-08T08:00:00.000Z",
+        "name": "Toward Fair and Open Decentralized Finance",
+        "description": "Main Stage:  Romina Bungert (Bila Hora Ventures)"
+      },
+      {
+        "start_date": "2024-11-08T08:00:00.000Z",
+        "end_date": "2024-11-08T09:00:00.000Z",
+        "name": "Building With Open Source Observer Data Pools",
+        "description": "Main Stage:  Raymond Cheng (Open Source Observer) - Rashmi Abbigeri (DAOstar)"
       }
     ]
   },
@@ -118,7 +130,7 @@
   "is_featured": false,
   "conference": "labweek-24-web3",
   "createdAt": "2024-08-23T10:49:57.957Z",
-  "updatedAt": "2024-11-01T15:53:20.460Z",
+  "updatedAt": "2024-11-01T15:55:45.658Z",
   "nft_ticketing": {
     "verifier_wallet_addresses": [],
     "verifier_email_addresses": [],
