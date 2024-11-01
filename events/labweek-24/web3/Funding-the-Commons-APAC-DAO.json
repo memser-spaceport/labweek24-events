@@ -93,6 +93,24 @@
         "end_date": "2024-11-08T05:30:00.000Z",
         "name": "Funding Networks with Hypercerts",
         "description": "Main Stage: Holke Brammer (Hypercerts)"
+      },
+      {
+        "start_date": "2024-11-08T05:30:00.000Z",
+        "end_date": "2024-11-08T06:00:00.000Z",
+        "name": "Contribution & Attestation Roundtable",
+        "description": "Main Stage:  Angela Kreitenweis (Token Engineering Academy) - Joshua Dávila (Breadchain, DAOstar) - Ron Turetzky (Breadchain) - Andrew Dickson (Drips) - Holke Brammer (Hypercerts) - Daniel Ospina - TBA"
+      },
+      {
+        "start_date": "2024-11-08T06:00:00.000Z",
+        "end_date": "2024-11-08T07:00:00.000Z",
+        "name": "Lunch Break",
+        "description": "Main Stage"
+      },
+      {
+        "start_date": "2024-11-08T07:00:00.000Z",
+        "end_date": "2024-11-08T07:30:00.000Z",
+        "name": "Making a Decentralized Consumer Price Index (CPI)",
+        "description": "A Paradigm Shift in Economic Transparency\nMain Stage:  Brenda Loya (Tellor)"
       }
     ]
   },
@@ -100,7 +118,7 @@
   "is_featured": false,
   "conference": "labweek-24-web3",
   "createdAt": "2024-08-23T10:49:57.957Z",
-  "updatedAt": "2024-11-01T15:50:51.855Z",
+  "updatedAt": "2024-11-01T15:53:20.460Z",
   "nft_ticketing": {
     "verifier_wallet_addresses": [],
     "verifier_email_addresses": [],
