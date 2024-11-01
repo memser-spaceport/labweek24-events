@@ -33,13 +33,20 @@
   "registration_link": "https://lu.ma/ftc-bangkok-2024",
   "website_link": "https://www.fundingthecommons.io/bangkok-2024",
   "agenda": {
-    "sessions": []
+    "sessions": [
+      {
+        "start_date": "2024-11-08T01:00:00.000Z",
+        "end_date": "2024-11-08T02:30:00.000Z",
+        "name": "Breakfast & Registration",
+        "description": "Main Stage"
+      }
+    ]
   },
   "sponsors": [],
   "is_featured": false,
   "conference": "labweek-24-web3",
   "createdAt": "2024-08-23T10:49:57.957Z",
-  "updatedAt": "2024-11-01T14:54:15.281Z",
+  "updatedAt": "2024-11-01T15:41:16.698Z",
   "nft_ticketing": {
     "verifier_wallet_addresses": [],
     "verifier_email_addresses": [],
