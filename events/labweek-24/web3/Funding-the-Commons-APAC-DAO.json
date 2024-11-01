@@ -52,6 +52,12 @@
         "end_date": "2024-11-08T02:50:00.000Z",
         "name": "The Lifecycle of A Commons",
         "description": "Main Stage:  Danny O’Brien (Filecoin Foundation)"
+      },
+      {
+        "start_date": "2024-11-08T02:50:00.000Z",
+        "end_date": "2024-11-08T03:10:00.000Z",
+        "name": "Catalyzing Systemic Change in Southeast Asia",
+        "description": "Main Stage:  Chi Ling Chan (Equitech Collective, World Health Organization)"
       }
     ]
   },
@@ -59,7 +65,7 @@
   "is_featured": false,
   "conference": "labweek-24-web3",
   "createdAt": "2024-08-23T10:49:57.957Z",
-  "updatedAt": "2024-11-01T15:43:37.950Z",
+  "updatedAt": "2024-11-01T15:44:47.377Z",
   "nft_ticketing": {
     "verifier_wallet_addresses": [],
     "verifier_email_addresses": [],
