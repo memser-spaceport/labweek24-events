@@ -58,6 +58,18 @@
         "end_date": "2024-11-08T03:10:00.000Z",
         "name": "Catalyzing Systemic Change in Southeast Asia",
         "description": "Main Stage:  Chi Ling Chan (Equitech Collective, World Health Organization)"
+      },
+      {
+        "start_date": "2024-11-08T03:10:00.000Z",
+        "end_date": "2024-11-08T03:30:00.000Z",
+        "name": "The 4th Industrial Revolution and Impact",
+        "description": "The 4th Industrial Revolution and the Impact on the Marginalized and Vulnerable Sector of Southeast Asia\nMain Stage:  Dr. Prapaporn Tivayanod Mongkhonvanit (Thammasat University)"
+      },
+      {
+        "start_date": "2024-11-08T03:30:00.000Z",
+        "end_date": "2024-11-08T04:00:00.000Z",
+        "name": "Building for Impact and Inclusion in SEA",
+        "description": "Building for Impact and Inclusion in Southeast Asia’s Local Context\nMain Stage:  Moh Suthasiny (Happy Grocers) - Thisana (Noburo) - TBA"
       }
     ]
   },
@@ -65,7 +77,7 @@
   "is_featured": false,
   "conference": "labweek-24-web3",
   "createdAt": "2024-08-23T10:49:57.957Z",
-  "updatedAt": "2024-11-01T15:44:47.377Z",
+  "updatedAt": "2024-11-01T15:47:17.295Z",
   "nft_ticketing": {
     "verifier_wallet_addresses": [],
     "verifier_email_addresses": [],
