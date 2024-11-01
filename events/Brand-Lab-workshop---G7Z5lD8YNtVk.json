@@ -1,0 +1,115 @@
+{
+  "event_contact_name": "Ira Nezhynska",
+  "event_contact_email": "iryna@nezhynska.com",
+  "secondary_contacts": [],
+  "event_name": "Brand Lab workshop: Extravaganza edition",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730495738211_80.jpeg",
+  "host": "Ira Nezhynska",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730495781875_671.jpeg",
+  "co_hosts": [],
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">A half-day hands-on workshop for founders who want to take control over what people think about their products and build a company's image that wins hearts and minds of early adopters and funders. </span></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">More details about for whom this workshop is (and for whom it is not) and what we will achieve in four hours of intensive work: </span><a href=\"https://nezhynska.com/brand-lab\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">https://nezhynska.com/brand-lab</span></a></p>",
+  "tags": [
+    "Workshop",
+    "branding",
+    "design",
+    "product adoption"
+  ],
+  "start_date": "2024-11-16T03:00:00.000Z",
+  "end_date": "2024-11-16T07:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "PAID",
+  "format": "IN-PERSON",
+  "location": "PL Cowork Hub",
+  "location_url": "https://maps.app.goo.gl/bcp4ikciYS4BZbom8",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "registration_link": "https://lu.ma/u4p9bmn0",
+  "website_link": "https://nezhynska.com/brand-lab",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "is_hidden": false,
+  "conference": "labweek-24-web3",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2024-11-01T21:27:39.386Z",
+  "updatedAt": "2024-11-01T21:35:25.464Z"
+}
