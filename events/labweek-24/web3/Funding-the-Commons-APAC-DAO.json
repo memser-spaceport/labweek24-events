@@ -70,6 +70,29 @@
         "end_date": "2024-11-08T04:00:00.000Z",
         "name": "Building for Impact and Inclusion in SEA",
         "description": "Building for Impact and Inclusion in Southeast Asia’s Local Context\nMain Stage:  Moh Suthasiny (Happy Grocers) - Thisana (Noburo) - TBA"
+      },
+      {
+        "start_date": "2024-11-08T04:00:00.000Z",
+        "end_date": "2024-11-08T04:10:00.000Z",
+        "name": "Tea Break"
+      },
+      {
+        "start_date": "2024-11-08T04:10:00.000Z",
+        "end_date": "2024-11-08T04:40:00.000Z",
+        "name": "Unlocking Financial Inclusion",
+        "description": "Funding Blockchain Solutions for  Refugee Aid\nMain Stage:  Anna Whitson (Stellar) - Melyn McKay (Coala Pay)"
+      },
+      {
+        "start_date": "2024-11-08T04:40:00.000Z",
+        "end_date": "2024-11-08T05:00:00.000Z",
+        "name": "Tracking Real-World Impact In Grant Programs",
+        "description": "Main Stage:  Anke Liu (Stellar)"
+      },
+      {
+        "start_date": "2024-11-08T05:00:00.000Z",
+        "end_date": "2024-11-08T05:30:00.000Z",
+        "name": "Funding Networks with Hypercerts",
+        "description": "Main Stage: Holke Brammer (Hypercerts)"
       }
     ]
   },
@@ -77,7 +100,7 @@
   "is_featured": false,
   "conference": "labweek-24-web3",
   "createdAt": "2024-08-23T10:49:57.957Z",
-  "updatedAt": "2024-11-01T15:47:17.295Z",
+  "updatedAt": "2024-11-01T15:50:51.855Z",
   "nft_ticketing": {
     "verifier_wallet_addresses": [],
     "verifier_email_addresses": [],
