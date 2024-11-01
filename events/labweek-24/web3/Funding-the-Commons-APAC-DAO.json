@@ -18,6 +18,7 @@
   ],
   "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Join us for our 11th Funding the Commons conference in Bangkok in November 2024!</span></p><p class=\"editor-paragraph\"><br></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">​We will explore three focal areas: &nbsp;</span></p><p class=\"editor-paragraph\"><span style=\"white-space: pre-wrap;\">&nbsp;&nbsp;</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">​- The evolution of innovation in digital public goods and open web funding, with a focus on impact evaluation and related challenges.&nbsp;</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">- ​Local and regional approaches in Southeast Asia (SEA) concerning commons-in-practice and public goods.&nbsp;</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">- Stewardship of natural resources, highlighting the intersection of decentralized science (DeSci) with Earth Commons, and exploring regenerative practices, biodiversity, and climate action.&nbsp;</span></p>",
   "tags": [
+    "Talks & Presentation",
     "Public Goods"
   ],
   "start_date": "2024-11-08T01:00:00.000Z",
@@ -39,6 +40,18 @@
         "end_date": "2024-11-08T02:30:00.000Z",
         "name": "Breakfast & Registration",
         "description": "Main Stage"
+      },
+      {
+        "start_date": "2024-11-08T02:00:00.000Z",
+        "end_date": "2024-11-08T02:30:00.000Z",
+        "name": "Opening Words",
+        "description": "Main Stage:  David Casey (Funding the Commons) - Nicole Nguyen (APAC DAO) - Kid Parchariyanon (SeaX Ventures, RISE) - Beth McCarthy (Funding the Commons)"
+      },
+      {
+        "start_date": "2024-11-08T02:30:00.000Z",
+        "end_date": "2024-11-08T02:50:00.000Z",
+        "name": "The Lifecycle of A Commons",
+        "description": "Main Stage:  Danny O’Brien (Filecoin Foundation)"
       }
     ]
   },
@@ -46,7 +59,7 @@
   "is_featured": false,
   "conference": "labweek-24-web3",
   "createdAt": "2024-08-23T10:49:57.957Z",
-  "updatedAt": "2024-11-01T15:41:16.698Z",
+  "updatedAt": "2024-11-01T15:43:37.950Z",
   "nft_ticketing": {
     "verifier_wallet_addresses": [],
     "verifier_email_addresses": [],
