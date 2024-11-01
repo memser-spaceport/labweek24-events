@@ -1,0 +1,190 @@
+{
+  "event_contact_name": "lachrista",
+  "event_contact_email": "lachrista@plrs.xyz",
+  "secondary_contacts": [],
+  "event_name": "OpenAGI Summit",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730492076094_781.jpeg",
+  "host": "Sentient",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730492223218_441.jpeg",
+  "co_hosts": [],
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Integrating AI with Web3 and decentralized ecosystems&nbsp;@Bangkok</span><br><br><span style=\"white-space: pre-wrap;\">Speakers:  Sandeep Nailwal (Sentient), Pramod Viswanath (Sentient), Sreeram Kannan (Eigenlayer), Illia Polosukhin (Near Foundation), Tarun Chitra (Robot Ventures), Michael Heinrich (Zero Gravity), Anna Kazlauskas (Vana Protocol), DC Builder (Worldcoin), Adrien Delaroche (Google), Matt Stephenson (Pantera Capital), Himanshu Tyagi (Sentient), </span><a href=\"https://directory.plnetwork.io/members/cldvu9zjf04ont40ya1r9j7wz\" target=\"_blank\" rel=\"noreferrer\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">Juan Benet</span></a><span style=\"white-space: pre-wrap;\"> (Protocol Labs), Ethan Sun (MyShell), Alex Cheema (EXO), </span><a href=\"https://directory.plnetwork.io/members/cliuweoqb000ew502855e15vy\" target=\"_blank\" rel=\"noreferrer\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">Ben Fielding</span></a><span style=\"white-space: pre-wrap;\"> (Gensyn), Tanwa Apornthip (SBC 10X), Sewoong Oh (Sentient), Matthew Wang (Open Gradient), Ron Bodkin (Theoriq), Saneel Sreeni (Ritual), David Minarsch (Olas), </span><a href=\"https://directory.plnetwork.io/members/clen9mfe9000302ss564y3k6r\" target=\"_blank\" rel=\"noreferrer\" class=\"editor-link\"><span style=\"white-space: pre-wrap;\">Prashant Maurya</span></a><span style=\"white-space: pre-wrap;\"> (Spheron), Nick Havryliak (Assisterr), Joshua Meng (RSS3), Aniket Jindal (Biconomy), Shu Dong (Mizu), Shashank Yadav (Fraction AI), Saurav Verma (Pyano), Luki Song (Chainbase)</span></p>",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2024-11-14T03:00:00.000Z",
+  "end_date": "2024-11-14T13:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "SCBX Next Tech",
+  "location_url": "https://maps.app.goo.gl/4WMXy2tikSyyjzHs5",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "registration_link": "https://lu.ma/7s7231aw",
+  "website_link": "https://openagi.xyz/",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [
+    {
+      "name": "Google Cloud",
+      "logo": ""
+    },
+    {
+      "name": "Polygon",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730493539658_430.jpeg"
+    },
+    {
+      "name": "SBCX",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730493713199_425.jpeg"
+    },
+    {
+      "name": "Vana",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730493741019_99.jpeg"
+    },
+    {
+      "name": "Symbolic Capital",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730493765767_489.jpeg"
+    },
+    {
+      "name": "Assisterr",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730493811138_292.jpeg"
+    },
+    {
+      "name": "Spheron",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730493841513_386.jpeg"
+    },
+    {
+      "name": "Olas",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730493959987_450.png"
+    },
+    {
+      "name": "OpenGradient",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730494056865_405.jpeg"
+    },
+    {
+      "name": "Gensyn",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730495287298_779.jpeg"
+    },
+    {
+      "name": "Ritual",
+      "logo": ""
+    },
+    {
+      "name": "Biconomy",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730495320043_691.jpeg"
+    },
+    {
+      "name": "OG Labs",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730495333486_882.jpeg"
+    },
+    {
+      "name": "Theoriq",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730495370201_401.jpeg"
+    },
+    {
+      "name": "Chainbase",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730495419038_932.jpeg"
+    },
+    {
+      "name": "Nillion",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730495441985_108.jpeg"
+    },
+    {
+      "name": "Mizu",
+      "logo": ""
+    },
+    {
+      "name": "Fraction AI",
+      "logo": ""
+    }
+  ],
+  "contact_infos": {
+    "twitter": [
+      "https://x.com/openagisummit"
+    ]
+  },
+  "is_featured": false,
+  "is_hidden": false,
+  "conference": "labweek-24-web3",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2024-11-01T21:00:47.468Z",
+  "updatedAt": "2024-11-01T21:26:55.314Z"
+}
