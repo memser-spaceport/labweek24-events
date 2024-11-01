@@ -20,7 +20,7 @@
   "tags": [
     "Public Goods"
   ],
-  "start_date": "2024-11-08T03:00:00.000Z",
+  "start_date": "2024-11-08T01:00:00.000Z",
   "end_date": "2024-11-09T11:00:00.000Z",
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "PAID",
@@ -39,7 +39,7 @@
   "is_featured": false,
   "conference": "labweek-24-web3",
   "createdAt": "2024-08-23T10:49:57.957Z",
-  "updatedAt": "2024-10-15T23:16:43.912Z",
+  "updatedAt": "2024-11-01T14:54:15.281Z",
   "nft_ticketing": {
     "verifier_wallet_addresses": [],
     "verifier_email_addresses": [],
