@@ -1,0 +1,112 @@
+{
+  "event_contact_name": "lachrista",
+  "event_contact_email": "lachrista@plrs.xyz",
+  "secondary_contacts": [],
+  "event_name": "After Hours, by Protocol Labs (hosted by Ramo) 4/5",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730521748227_244.jpeg",
+  "host": "Ramo",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730521772471_78.jpeg",
+  "co_hosts": [],
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">Join us for laid-back evenings (~7pm-midnight) of connection and conversation with members of the Protocol Labs network! This casual after-hours event is open to anyone, from founders and innovators to open-source contributors and tech enthusiasts. It’s the perfect chance to unwind and engage in meaningful discussions about the projects and ideas that excite you the most—whether it’s web3, AI, AR/VR, BCI, and more.</span></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​With many startups, foundations, and research groups in the network, this is an opportunity to meet fellow members, explore collaborations, and share your passion in a relaxed atmosphere. There’s no agenda—just good vibes, great company, and space to brainstorm or simply hang out.</span><br></p>",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2024-11-10T12:30:00.000Z",
+  "end_date": "2024-11-10T17:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "Guilty Bangkok",
+  "location_url": "https://maps.app.goo.gl/uH8sGKoEYQuMwtuN7",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "registration_link": "https://lu.ma/e4pjlpgv",
+  "website_link": "https://lu.ma/e4pjlpgv",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "is_hidden": false,
+  "conference": "labweek-24-web3",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2024-11-02T04:30:56.179Z",
+  "updatedAt": "2024-11-02T04:30:56.179Z"
+}
