@@ -1,0 +1,217 @@
+{
+  "event_contact_name": "David Sneider",
+  "event_contact_email": "david@litprotocol.com",
+  "secondary_contacts": [
+    {
+      "name": "Chris Cassano",
+      "email": "chris@litprotocol.com"
+    }
+  ],
+  "event_name": "Web3 Evolution Summit",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730658097693_304.png",
+  "host": "Lit Protocol",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730658169250_264.jpeg",
+  "co_hosts": [
+    {
+      "name": "OpenGradient",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730658250547_544.jpeg"
+    },
+    {
+      "name": "Pond",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730658321199_838.jpeg"
+    }
+  ],
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">The Evolution Summit is focused on applications, tooling, or infrastructure that create net new unlocks on the application layer that allow developers to innovate on features, and pushing application developers to explore new design spaces.</span></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​Join the summit proudly co-hosted by OpenGradient, Pond, and Lit Protocol. The event will feature discussions and insights on AI, high-performance crypto applications, applied machine learning for defi, and next-gen crypto networks, followed by a builder and researcher workshop to discover the emerging trends of the industry.</span></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​Before the talks begin, enjoy complimentary coffee and local Thai snacks. A Builder Lunch will also be provided, so arrive early to fuel up before engaging in enlightening talks, discussions, and panels.</span></p>",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2024-11-14T02:00:00.000Z",
+  "end_date": "2024-11-14T10:30:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "The Standard Bangkok",
+  "location_url": "https://maps.app.goo.gl/NeJCz2d6C3JZwpGz5",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "agenda": {
+    "sessions": [
+      {
+        "name": "Morning Coffee & Networking",
+        "start_date": "2024-11-14T02:00:00.000Z",
+        "end_date": "2024-11-14T03:00:00.000Z"
+      },
+      {
+        "name": "Opening Remarks and Welcome",
+        "start_date": "2024-11-14T03:00:00.000Z",
+        "end_date": "2024-11-14T03:15:00.000Z"
+      },
+      {
+        "start_date": "2024-11-14T03:15:00.000Z",
+        "end_date": "2024-11-14T03:35:00.000Z",
+        "name": "Keynote Speech #1"
+      },
+      {
+        "start_date": "2024-11-14T03:35:00.000Z",
+        "end_date": "2024-11-14T03:55:00.000Z",
+        "name": "Keynote Speech #2"
+      },
+      {
+        "start_date": "2024-11-14T03:55:00.000Z",
+        "end_date": "2024-11-14T04:25:00.000Z",
+        "name": "Panel #1 (Moderated by OpenGradient)"
+      },
+      {
+        "start_date": "2024-11-14T04:25:00.000Z",
+        "end_date": "2024-11-14T04:45:00.000Z",
+        "name": "Presentation #1"
+      },
+      {
+        "start_date": "2024-11-14T04:45:00.000Z",
+        "end_date": "2024-11-14T05:05:00.000Z",
+        "name": "Lightning Talk #1"
+      },
+      {
+        "start_date": "2024-11-14T05:05:00.000Z",
+        "end_date": "2024-11-14T05:35:00.000Z",
+        "name": "Panel #2 (Moderated by Pond)"
+      },
+      {
+        "start_date": "2024-11-14T05:35:00.000Z",
+        "end_date": "2024-11-14T06:00:00.000Z",
+        "name": "Keynote Speech #3"
+      },
+      {
+        "start_date": "2024-11-14T06:00:00.000Z",
+        "end_date": "2024-11-14T07:00:00.000Z",
+        "name": "Lunch Break"
+      },
+      {
+        "start_date": "2024-11-14T07:00:00.000Z",
+        "end_date": "2024-11-14T07:20:00.000Z",
+        "name": "Lightning Talk #2"
+      },
+      {
+        "start_date": "2024-11-14T07:20:00.000Z",
+        "end_date": "2024-11-14T07:40:00.000Z",
+        "name": "Presentation #2"
+      },
+      {
+        "start_date": "2024-11-14T07:40:00.000Z",
+        "end_date": "2024-11-14T08:00:00.000Z",
+        "name": "Keynote Speech #4"
+      },
+      {
+        "start_date": "2024-11-14T08:00:00.000Z",
+        "end_date": "2024-11-14T09:00:00.000Z",
+        "name": "Developer Workshop #1"
+      },
+      {
+        "start_date": "2024-11-14T09:00:00.000Z",
+        "end_date": "2024-11-14T09:30:00.000Z",
+        "name": "Panel #3 (Moderated by Lit Protocol)"
+      },
+      {
+        "start_date": "2024-11-14T09:30:00.000Z",
+        "end_date": "2024-11-14T09:50:00.000Z",
+        "name": "Presentation #3"
+      },
+      {
+        "start_date": "2024-11-14T09:50:00.000Z",
+        "end_date": "2024-11-14T10:10:00.000Z",
+        "name": "Panel #4"
+      },
+      {
+        "start_date": "2024-11-14T10:10:00.000Z",
+        "end_date": "2024-11-14T10:30:00.000Z",
+        "name": "Closing Remarks and Networking"
+      }
+    ]
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "is_hidden": false,
+  "conference": "labweek-24-web3",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2024-11-03T18:27:10.493Z",
+  "updatedAt": "2024-11-03T18:34:58.679Z",
+  "registration_link": "https://lu.ma/39qf0oie",
+  "website_link": "https://lu.ma/39qf0oie"
+}
