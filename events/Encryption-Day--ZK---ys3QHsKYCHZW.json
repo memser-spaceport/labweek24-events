@@ -1,0 +1,129 @@
+{
+  "event_contact_name": "lachrista",
+  "event_contact_email": "lachrista@plrs.xyz",
+  "secondary_contacts": [],
+  "event_name": "Encryption Day: ZK, FHE, & MPC",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730775287180_892.jpeg",
+  "host": "Fhenix",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730775305191_264.jpeg",
+  "co_hosts": [],
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Encryption Day at Devcon</strong></b></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​​Back by popular demand, we're thrilled to be organizing our 3rd&nbsp;</span><i><b><strong class=\"editor-text-bold editor-text-italic\" style=\"white-space: pre-wrap;\">Encryption Day on November 14th, 2024 in Bangkok during Devcon</strong></b></i><i><em class=\"editor-text-italic\" style=\"white-space: pre-wrap;\">.</em></i><span style=\"white-space: pre-wrap;\">&nbsp;At this flagship event,&nbsp;</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">twitter anons, cracked coders, and sleep deprived founders</strong></b><span style=\"white-space: pre-wrap;\">&nbsp;will come together to share their knowledge and expertise on leveraging&nbsp;</span><i><b><strong class=\"editor-text-bold editor-text-italic\" style=\"white-space: pre-wrap;\">ZK, FHE, and MPC</strong></b></i><i><em class=\"editor-text-italic\" style=\"white-space: pre-wrap;\">&nbsp;in the&nbsp;</em></i><i><b><strong class=\"editor-text-bold editor-text-italic\" style=\"white-space: pre-wrap;\">Ethereum</strong></b></i><i><em class=\"editor-text-italic\" style=\"white-space: pre-wrap;\">&nbsp;ecosystem.</em></i></p>",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2024-11-14T05:00:00.000Z",
+  "end_date": "2024-11-14T10:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "Sofitel Bangkok Sukhumvit",
+  "location_url": "https://maps.app.goo.gl/YziHZ5Tz9ku4f9VKA",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "registration_link": "https://lu.ma/4xglzrk8",
+  "website_link": "https://lu.ma/4xglzrk8",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [
+    {
+      "name": "Ingonyama",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730775354997_275.png"
+    },
+    {
+      "name": "Fairblock",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730775474208_273.jpeg"
+    },
+    {
+      "name": "Artifact Systems",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730775863611_888.jpeg"
+    },
+    {
+      "name": "AltLayer",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730776071688_393.jpeg"
+    }
+  ],
+  "is_featured": false,
+  "is_hidden": false,
+  "conference": "labweek-24-web3",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2024-11-05T02:58:10.097Z",
+  "updatedAt": "2024-11-05T03:07:59.205Z"
+}
