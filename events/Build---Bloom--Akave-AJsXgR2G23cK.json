@@ -1,0 +1,148 @@
+{
+  "event_contact_name": "Angela Reyes",
+  "event_contact_email": "angela@akave.ai",
+  "secondary_contacts": [],
+  "event_name": "Build & Bloom: Akave's Decentralized Storage Workshop",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730799545700_853.jpeg",
+  "host": "Akave",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730800179688_172.jpeg",
+  "co_hosts": [],
+  "description": "<p class=\"editor-paragraph\"><br></p>",
+  "tags": [
+    "Workshop"
+  ],
+  "start_date": "2024-11-14T04:00:00.000Z",
+  "end_date": "2024-11-14T10:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "SOCO WORK & LIVE EmQuartier",
+  "location_url": "https://maps.app.goo.gl/ESpGKJounnffsL2x7",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "registration_link": "https://lu.ma/qrk28iw4",
+  "website_link": "https://lu.ma/qrk28iw4",
+  "agenda": {
+    "sessions": [
+      {
+        "name": "Welcome & Networking",
+        "description": "Connect with fellow builders and the Akave team over coffee and snacks, and hear a brief introduction to the day's workshop structure.",
+        "start_date": "2024-11-14T04:00:00.000Z",
+        "end_date": "2024-11-14T04:30:00.000Z"
+      },
+      {
+        "name": "Oasis SDK & API Workshop",
+        "description": "​A hands-on session to explore Akave’s SDK and S3-compatible API. Learn how to integrate decentralized storage into your applications through guided exercises.\n\n30-minute Intro/Demo: An overview of the SDK and API, highlighting key features and real-world applications. \n\n​Guided Tasks: Gain exclusive access to Akave’s Yucca Testnet to work on uploading and downloading files, testing storage resilience, and more. \n\n​Live Support: Akave team members will be available to assist and answer questions throughout the session.",
+        "start_date": "2024-11-14T04:30:00.000Z",
+        "end_date": "2024-11-14T06:00:00.000Z"
+      },
+      {
+        "name": "Lunch Break",
+        "start_date": "2024-11-14T06:00:00.000Z",
+        "end_date": "2024-11-14T07:00:00.000Z"
+      },
+      {
+        "name": "AI Bloom: Decentralize Your Models",
+        "description": "Discover how to decentralize your AI/LLM models using Akave’s infrastructure. This session includes a live demo followed by a hands-on mini-hack.",
+        "start_date": "2024-11-14T07:00:00.000Z",
+        "end_date": "2024-11-14T08:00:00.000Z"
+      },
+      {
+        "name": "Dogfooding Session & Feedback Session ",
+        "description": "​Test Akave’s S3-compatible API with real-world tasks, such as uploading data from the cloud. Share feedback on your experience, discuss essential API calls, and help shape future developments.",
+        "start_date": "2024-11-14T08:00:00.000Z",
+        "end_date": "2024-11-14T09:00:00.000Z"
+      },
+      {
+        "name": "4:00 PM - 5:00 PM - Closing & Networking  Wrap up ",
+        "description": "Wrap up with an informal networking session to continue discussions, exchange ideas, and connect with fellow builders.",
+        "start_date": "2024-11-14T09:00:00.000Z",
+        "end_date": "2024-11-14T10:00:00.000Z"
+      }
+    ]
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "is_hidden": false,
+  "conference": "labweek-24-web3",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2024-11-05T09:55:18.722Z",
+  "updatedAt": "2024-11-05T09:55:18.722Z"
+}
