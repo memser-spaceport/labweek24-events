@@ -22,7 +22,37 @@
   "seat_count": "100-200",
   "registration_link": "https://lu.ma/InfraGardens-Bangkok",
   "agenda": {
-    "sessions": []
+    "sessions": [
+      {
+        "start_date": "2024-11-13T08:00:00.000Z",
+        "end_date": "2024-11-13T08:45:00.000Z",
+        "name": "Panel 1",
+        "description": "Standardizing Chain Infrastructure: Balancing Customization andSeamless Deployment"
+      },
+      {
+        "start_date": "2024-11-13T08:45:00.000Z",
+        "end_date": "2024-11-13T09:30:00.000Z",
+        "name": "Panel 2",
+        "description": "Modular Blockchain Architecture: Real-World Applications, Now & the Future"
+      },
+      {
+        "start_date": "2024-11-13T09:30:00.000Z",
+        "end_date": "2024-11-13T10:15:00.000Z",
+        "name": "Panel 3",
+        "description": "Picks and Shovels: Laying Infrastructure for the Onchain Financial Future"
+      },
+      {
+        "start_date": "2024-11-13T10:15:00.000Z",
+        "end_date": "2024-11-13T11:00:00.000Z",
+        "name": "Panel 4",
+        "description": "You don't need ZK"
+      },
+      {
+        "start_date": "2024-11-13T11:00:00.000Z",
+        "end_date": "2024-11-13T12:00:00.000Z",
+        "name": "Networking & Drinks"
+      }
+    ]
   },
   "sponsors": [],
   "contact_infos": {
@@ -111,5 +141,5 @@
     "custom_fields": []
   },
   "createdAt": "2024-10-08T07:16:04.840Z",
-  "updatedAt": "2024-10-08T08:37:30.552Z"
+  "updatedAt": "2024-11-06T19:03:20.824Z"
 }
