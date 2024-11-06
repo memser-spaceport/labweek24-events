@@ -6,7 +6,20 @@
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1728371346567_338.jpeg",
   "host": "DIA",
   "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1728371416344_943.jpeg",
-  "co_hosts": [],
+  "co_hosts": [
+    {
+      "name": "Protocol Labs",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730919993028_167.png"
+    },
+    {
+      "name": "Kwill",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730920110152_781.jpeg"
+    },
+    {
+      "name": "Randamu",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730920135036_232.jpeg"
+    }
+  ],
   "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Infra Gardens is heading to Bangkok! We can’t believe it’s already edition number 5 of the Infra Gardens series. As always, we invite builders, founders, developers, and BD decision-makers from across the web3 ecosystem to join us for an afternoon of tasty snacks, soul-warming drinks, and thought-provoking panels.</span></p>",
   "tags": [
     "Talks & Presentation"
@@ -141,5 +154,5 @@
     "custom_fields": []
   },
   "createdAt": "2024-10-08T07:16:04.840Z",
-  "updatedAt": "2024-11-06T19:03:20.824Z"
+  "updatedAt": "2024-11-06T19:09:01.604Z"
 }
