@@ -43,10 +43,22 @@
         "description": "Will Scott \n\n"
       },
       {
+        "start_date": "2024-11-09T04:45:00.000Z",
+        "end_date": "2024-11-09T05:15:00.000Z",
+        "name": "Helping PL Teams Get to PMF More Quickly",
+        "description": "Marta Piekarska Geater, Brainstorm"
+      },
+      {
         "start_date": "2024-11-09T05:00:00.000Z",
         "end_date": "2024-11-09T05:30:00.000Z",
         "name": "PMF for PL Website",
         "description": "Laura Brewer"
+      },
+      {
+        "start_date": "2024-11-09T05:15:00.000Z",
+        "end_date": "2024-11-09T05:45:00.000Z",
+        "name": "Sharing Learnings Across Filecoin Teams",
+        "description": "John Schwartz"
       },
       {
         "start_date": "2024-11-09T05:30:00.000Z",
@@ -60,6 +72,12 @@
         "description": "Clara Tsao"
       },
       {
+        "start_date": "2024-11-09T06:30:00.000Z",
+        "end_date": "2024-11-09T07:15:00.000Z",
+        "name": "Industry Conferences - Infra",
+        "description": "Angela Reyes"
+      },
+      {
         "start_date": "2024-11-09T07:15:00.000Z",
         "end_date": "2024-11-09T08:00:00.000Z",
         "name": "What chat system  should the network use?",
@@ -70,6 +88,41 @@
         "end_date": "2024-11-09T08:00:00.000Z",
         "name": " Bringing more capital into the network",
         "description": "Konstantin Tkachuk & Brad Holden"
+      },
+      {
+        "start_date": "2024-11-09T07:15:00.000Z",
+        "end_date": "2024-11-09T08:00:00.000Z",
+        "name": "Industry Conference - GDC",
+        "description": "Michelle Lee (Mosh)"
+      },
+      {
+        "start_date": "2024-11-09T08:00:00.000Z",
+        "end_date": "2024-11-09T08:30:00.000Z",
+        "name": "Break"
+      },
+      {
+        "start_date": "2024-11-09T08:30:00.000Z",
+        "end_date": "2024-11-09T09:15:00.000Z",
+        "name": "The Future of PL Dev Guild",
+        "description": "Jarrod Barnes"
+      },
+      {
+        "start_date": "2024-11-09T08:30:00.000Z",
+        "end_date": "2024-11-09T09:00:00.000Z",
+        "name": "Podcasts & X Spaces for Conversations",
+        "description": "Jonathan Victor"
+      },
+      {
+        "start_date": "2024-11-09T09:15:00.000Z",
+        "end_date": "2024-11-09T10:00:00.000Z",
+        "name": "PL Leadership Principles Workshop",
+        "description": "Marta Belcher"
+      },
+      {
+        "start_date": "2024-11-09T10:00:00.000Z",
+        "end_date": "2024-11-09T11:00:00.000Z",
+        "name": "Wrap Up + Review Day 2 Schedule",
+        "description": "Andrew Woo"
       },
       {
         "start_date": "2024-11-10T05:30:00.000Z",
@@ -161,5 +214,5 @@
     "custom_fields": []
   },
   "createdAt": "2024-11-04T19:20:28.705Z",
-  "updatedAt": "2024-11-08T16:24:42.757Z"
+  "updatedAt": "2024-11-08T16:43:28.222Z"
 }
