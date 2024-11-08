@@ -47,6 +47,34 @@
         "end_date": "2024-11-09T05:30:00.000Z",
         "name": "PMF for PL Website",
         "description": "Laura Brewer"
+      },
+      {
+        "start_date": "2024-11-09T05:30:00.000Z",
+        "end_date": "2024-11-09T06:30:00.000Z",
+        "name": "Lunch"
+      },
+      {
+        "start_date": "2024-11-09T06:30:00.000Z",
+        "end_date": "2024-11-09T07:15:00.000Z",
+        "name": "Silk Road for PL",
+        "description": "Clara Tsao"
+      },
+      {
+        "start_date": "2024-11-09T07:15:00.000Z",
+        "end_date": "2024-11-09T08:00:00.000Z",
+        "name": "What chat system  should the network use?",
+        "description": "(TG, Slack, etc.)"
+      },
+      {
+        "start_date": "2024-11-09T07:15:00.000Z",
+        "end_date": "2024-11-09T08:00:00.000Z",
+        "name": " Bringing more capital into the network",
+        "description": "Konstantin Tkachuk & Brad Holden"
+      },
+      {
+        "start_date": "2024-11-10T05:30:00.000Z",
+        "end_date": "2024-11-10T06:30:00.000Z",
+        "name": "Lunch"
       }
     ]
   },
@@ -133,5 +161,5 @@
     "custom_fields": []
   },
   "createdAt": "2024-11-04T19:20:28.705Z",
-  "updatedAt": "2024-11-08T16:05:07.262Z"
+  "updatedAt": "2024-11-08T16:24:42.757Z"
 }
