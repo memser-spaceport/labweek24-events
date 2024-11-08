@@ -12,7 +12,7 @@
     "Talks & Presentation"
   ],
   "start_date": "2024-11-09T03:00:00.000Z",
-  "end_date": "2024-11-10T11:00:00.000Z",
+  "end_date": "2024-11-10T12:00:00.000Z",
   "access_type": "CUSTOM_REGISTRATION",
   "access_option": "OPEN",
   "format": "IN-PERSON",
@@ -125,9 +125,54 @@
         "description": "Andrew Woo"
       },
       {
+        "start_date": "2024-11-10T03:30:00.000Z",
+        "end_date": "2024-11-10T04:00:00.000Z",
+        "name": "LabWeek Public Goods in 2025",
+        "description": "Andrew Woo"
+      },
+      {
+        "start_date": "2024-11-10T04:00:00.000Z",
+        "end_date": "2024-11-10T04:45:00.000Z",
+        "name": "PL Alignment Asset",
+        "description": "Diana Stern"
+      },
+      {
+        "start_date": "2024-11-10T04:45:00.000Z",
+        "end_date": "2024-11-10T05:30:00.000Z",
+        "name": "PGF Track",
+        "description": "Raymond Cheng"
+      },
+      {
         "start_date": "2024-11-10T05:30:00.000Z",
         "end_date": "2024-11-10T06:30:00.000Z",
         "name": "Lunch"
+      },
+      {
+        "start_date": "2024-11-10T06:30:00.000Z",
+        "end_date": "2024-11-10T08:00:00.000Z",
+        "name": "PGF Track ",
+        "description": "Raymond Cheng"
+      },
+      {
+        "start_date": "2024-11-10T08:00:00.000Z",
+        "end_date": "2024-11-10T08:30:00.000Z",
+        "name": "Break"
+      },
+      {
+        "start_date": "2024-11-10T08:30:00.000Z",
+        "end_date": "2024-11-10T09:30:00.000Z",
+        "name": "Network Intelligence & Contribution Metrics",
+        "description": "Raymond Cheng & Anuj Pandey"
+      },
+      {
+        "start_date": "2024-11-10T10:00:00.000Z",
+        "end_date": "2024-11-10T11:00:00.000Z",
+        "name": "Closing"
+      },
+      {
+        "start_date": "2024-11-10T10:00:00.000Z",
+        "end_date": "2024-11-10T11:00:00.000Z",
+        "name": "Happy Hour"
       }
     ]
   },
@@ -214,5 +259,5 @@
     "custom_fields": []
   },
   "createdAt": "2024-11-04T19:20:28.705Z",
-  "updatedAt": "2024-11-08T16:43:28.222Z"
+  "updatedAt": "2024-11-08T17:21:09.090Z"
 }
