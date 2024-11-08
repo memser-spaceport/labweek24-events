@@ -131,16 +131,45 @@
         "description": "Andrew Woo"
       },
       {
+        "start_date": "2024-11-10T03:30:00.000Z",
+        "end_date": "2024-11-10T04:15:00.000Z",
+        "name": "Creating a DevRel community at PL ",
+        "description": "Sarah Thiam"
+      },
+      {
         "start_date": "2024-11-10T04:00:00.000Z",
         "end_date": "2024-11-10T04:45:00.000Z",
         "name": "PL Alignment Asset",
         "description": "Diana Stern"
       },
       {
+        "start_date": "2024-11-10T04:00:00.000Z",
+        "end_date": "2024-11-10T04:45:00.000Z",
+        "name": "LLMs/Gen AI for to Speed Up Learning ",
+        "description": "Levi Rybalov"
+      },
+      {
+        "start_date": "2024-11-10T04:15:00.000Z",
+        "end_date": "2024-11-10T04:45:00.000Z",
+        "name": "Builder Programs for 2025",
+        "description": "Niki Gokani"
+      },
+      {
         "start_date": "2024-11-10T04:45:00.000Z",
         "end_date": "2024-11-10T05:30:00.000Z",
         "name": "PGF Track",
         "description": "Raymond Cheng"
+      },
+      {
+        "start_date": "2024-11-10T04:45:00.000Z",
+        "end_date": "2024-11-10T05:30:00.000Z",
+        "name": "Founder Retreats in 2025",
+        "description": "Andrew Woo"
+      },
+      {
+        "start_date": "2024-11-10T04:45:00.000Z",
+        "end_date": "2024-11-10T05:30:00.000Z",
+        "name": "Network Communication "
       },
       {
         "start_date": "2024-11-10T05:30:00.000Z",
@@ -259,5 +288,5 @@
     "custom_fields": []
   },
   "createdAt": "2024-11-04T19:20:28.705Z",
-  "updatedAt": "2024-11-08T17:22:46.700Z"
+  "updatedAt": "2024-11-08T17:31:29.971Z"
 }
