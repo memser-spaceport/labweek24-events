@@ -23,7 +23,32 @@
   "registration_link": "https://lu.ma/sm0d3vj3",
   "website_link": "https://lu.ma/sm0d3vj3",
   "agenda": {
-    "sessions": []
+    "sessions": [
+      {
+        "start_date": "2024-11-09T03:30:00.000Z",
+        "end_date": "2024-11-09T04:00:00.000Z",
+        "name": "Welcome + Intro",
+        "description": "Juan Benet"
+      },
+      {
+        "start_date": "2024-11-09T04:00:00.000Z",
+        "end_date": "2024-11-09T04:15:00.000Z",
+        "name": "Review Session List",
+        "description": "Andrew Woo"
+      },
+      {
+        "start_date": "2024-11-09T04:15:00.000Z",
+        "end_date": "2024-11-09T05:00:00.000Z",
+        "name": "Increasing PL's impact in Digital Human Rights",
+        "description": "Will Scott \n\n"
+      },
+      {
+        "start_date": "2024-11-09T05:00:00.000Z",
+        "end_date": "2024-11-09T05:30:00.000Z",
+        "name": "PMF for PL Website",
+        "description": "Laura Brewer"
+      }
+    ]
   },
   "sponsors": [],
   "is_featured": false,
@@ -108,5 +133,5 @@
     "custom_fields": []
   },
   "createdAt": "2024-11-04T19:20:28.705Z",
-  "updatedAt": "2024-11-04T19:20:28.705Z"
+  "updatedAt": "2024-11-08T16:05:07.262Z"
 }
