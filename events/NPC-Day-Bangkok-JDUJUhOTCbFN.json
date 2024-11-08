@@ -72,6 +72,11 @@
       },
       {
         "start_date": "2024-11-15T07:15:00.000Z",
+        "end_date": "2024-11-15T08:00:00.000Z",
+        "name": "B3's Open Gaming By Daryl Xu"
+      },
+      {
+        "start_date": "2024-11-15T08:00:00.000Z",
         "end_date": "2024-11-15T10:00:00.000Z",
         "name": "Talks and Workshop (Full details coming soon)"
       }
@@ -165,5 +170,5 @@
     "custom_fields": []
   },
   "createdAt": "2024-10-17T22:51:20.398Z",
-  "updatedAt": "2024-10-25T20:38:54.349Z"
+  "updatedAt": "2024-11-08T04:08:04.109Z"
 }
