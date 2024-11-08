@@ -1,7 +1,12 @@
 {
   "event_contact_name": "lachrista",
   "event_contact_email": "lachrista@plrs.xyz",
-  "secondary_contacts": [],
+  "secondary_contacts": [
+    {
+      "name": "JC",
+      "email": "jingchangsun@microsoft.com"
+    }
+  ],
   "event_name": "Enterprise Ethereum Alliance Industry Day",
   "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1729130987477_681.jpeg",
   "host": "Enterprise Ethereum Alliance",
@@ -106,5 +111,5 @@
     "custom_fields": []
   },
   "createdAt": "2024-10-17T02:16:52.167Z",
-  "updatedAt": "2024-10-17T02:16:52.167Z"
+  "updatedAt": "2024-11-08T09:24:15.961Z"
 }
