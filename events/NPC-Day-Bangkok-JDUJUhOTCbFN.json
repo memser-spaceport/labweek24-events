@@ -38,47 +38,67 @@
       {
         "start_date": "2024-11-15T03:30:00.000Z",
         "end_date": "2024-11-15T03:45:00.000Z",
-        "name": "Introduction to NPC Day"
+        "name": "Introduction to NPC Day by Paul Gadi",
+        "description": "A short intro to NPC Day: how we got here and our hopes for the day"
       },
       {
         "start_date": "2024-11-15T03:45:00.000Z",
         "end_date": "2024-11-15T04:15:00.000Z",
-        "name": "Culture Keynote by Andy Tudhope"
+        "name": "Infinite Games: Culture Keynote by Andy Tudhope",
+        "description": "NPC Day starts off with a question from our technophilosopher and cryptowanderer Andy: There is but one infinite game, are you playing it?"
       },
       {
         "start_date": "2024-11-15T04:15:00.000Z",
         "end_date": "2024-11-15T04:45:00.000Z",
-        "name": "Tech Keynote on NFT 2.0 NPCs by Tim Cotten"
+        "name": "TBAs and NPCs by Jayden Wilde",
+        "description": "An update on the genesis technology for on-chain NPCS, Token Bound Accounts (TBAs), by Jayden of Future Primitive.\n\nTBAs open up a wide exploration space for building sovereign, agentic consumer applications. This talk will explore the architectures of several consumer apps that are using TBAs to build compelling onchain experiences."
       },
       {
         "start_date": "2024-11-15T04:45:00.000Z",
         "end_date": "2024-11-15T05:00:00.000Z",
-        "name": "Creating Web 3.0 Games Together at OP Guild"
+        "name": "Autonomous AI Agents: Tech Keynote by Tim Cotten",
+        "description": "Our Tech keynote takes a peek at Autonomous AI Agents: Yesterday, Today, & the Decentralized Tomorrow.\n\nTim Cotten is Building the Inori Network for Autonomous AI Agents. Ex-EA, Ex-Mythic, he is the founder of Scrypted and  a believer in Autonomous Virtual Beings."
       },
       {
         "start_date": "2024-11-15T05:00:00.000Z",
         "end_date": "2024-11-15T06:00:00.000Z",
-        "name": "Lunch"
+        "name": "Lunch",
+        "description": "Provided by OP Games, OP Guild and Cosmic Labs"
       },
       {
         "start_date": "2024-11-15T06:00:00.000Z",
         "end_date": "2024-11-15T06:45:00.000Z",
-        "name": "Permissionless Games by Neeraj Kashyap"
+        "name": "Permissionless Games by Neeraj Kashyap",
+        "description": "We start the afternoon by expanding our game design toolkit, led by Neeraj Kashyap: Mathematician and builder of permissionless games and infrastructure at Game7.\n\nWeb3 makes it easy to build permissionless, multiplayer, digital games - we will discuss the shifts in think that these games demand from game designers."
       },
       {
         "start_date": "2024-11-15T06:45:00.000Z",
         "end_date": "2024-11-15T07:15:00.000Z",
-        "name": "Building Multiplayer AI Games using Cosmic Engine"
+        "name": "Cosmic Engine: Open-source LLM NPCs by OP Games",
+        "description": "NPC Day Bangkok is the announcement venue for Cosmic Labs and Cosmic Engine: OP Games' full-stack framework for making Fun, Open-source, NPC-Friendly and Decentralized (FOND) games.\n \nLearn how to make NPCs using Scaffold-ETH, Nakama and ONNX."
       },
       {
         "start_date": "2024-11-15T07:15:00.000Z",
         "end_date": "2024-11-15T08:00:00.000Z",
-        "name": "B3's Open Gaming By Daryl Xu"
+        "name": "Expert Panel on NPCs by OP Guild and Friends",
+        "description": "We'll be hearing from Angel Investor / Shitcoiner Niels De Ruiter, ETH Lizards, and other on-chain games industry experts on what NPCs mean for each of their projects.\n\nModerated by Chase Freo of OP Games"
       },
       {
         "start_date": "2024-11-15T08:00:00.000Z",
+        "end_date": "2024-11-15T08:45:00.000Z",
+        "name": "B3's Open Gaming By Daryl Xu",
+        "description": "Open Gaming, powered by B3’s Core Layer 3 Framework, is a connected, inclusive, and modular ecosystem designed to bridge the isolated islands of current gamechains.\n\nDaryl is CEO and cofounder of NPC Labs, core contributor to B3, gaming network on Base."
+      },
+      {
+        "start_date": "2024-11-15T08:45:00.000Z",
+        "end_date": "2024-11-15T09:00:00.000Z",
+        "name": "Break"
+      },
+      {
+        "start_date": "2024-11-15T09:00:00.000Z",
         "end_date": "2024-11-15T10:00:00.000Z",
-        "name": "Talks and Workshop (Full details coming soon)"
+        "name": "NPC Day Game Design Workshop: Robot Free Will",
+        "description": "We end the day with doing an exploratory LARP / workshop on the future of NPC Game Design. \n\nIn the near future, free will and human exceptionalism are being redefined. How will we be making games in an era of change?"
       }
     ]
   },
@@ -170,5 +190,5 @@
     "custom_fields": []
   },
   "createdAt": "2024-10-17T22:51:20.398Z",
-  "updatedAt": "2024-11-08T04:08:04.109Z"
+  "updatedAt": "2024-11-11T01:45:35.961Z"
 }
