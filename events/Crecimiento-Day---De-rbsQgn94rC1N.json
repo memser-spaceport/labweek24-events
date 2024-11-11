@@ -1,0 +1,112 @@
+{
+  "event_contact_name": "Manon Furst",
+  "event_contact_email": "manon@the-mu.xyz",
+  "secondary_contacts": [],
+  "event_name": "Crecimiento Day @ Devcon",
+  "event_logo": "",
+  "host": "Crecimiento ",
+  "host_logo": "",
+  "co_hosts": [],
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">​</span><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">🇦🇷 Argentina is becoming a crypto nation!</strong></b><br><br><span style=\"white-space: pre-wrap;\">With growing adoption and governmental support, the future of crypto in the country is bright 🌞</span><br><br><b><strong class=\"editor-text-bold\" style=\"white-space: pre-wrap;\">Curious about what’s next?</strong></b><span style=\"white-space: pre-wrap;\">&nbsp;This is the perfect opportunity to learn more about what's coming in terms of startups, regulations, adoption, SEZ creation, upcoming events, and more!</span><br></p>",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2024-11-11T08:00:00.000Z",
+  "end_date": "2024-11-11T12:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "SOCO WORK&LIVE",
+  "location_url": "https://www.google.com/maps/place/SOCO+WORK%26LIVE+EmQuartier+(%E0%B9%82%E0%B8%8B%E0%B9%82%E0%B8%84+%E0%B9%80%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%81+%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C+%E0%B8%A5%E0%B8%B4%E0%B8%9F+%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%A1%E0%B8%84%E0%B8%A7%E0%B8%AD%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C)/@13.7318947,100.5693553,16z/data=!3m1!5s0x30e29f018acffe7f:0x3333a5709486d7df!4m6!3m5!1s0x30e29f3d9b0a2cc3:0x38bc5d3f1bfa5909!8m2!3d13.7318947!4d100.5693553!16s%2Fg%2F11txsmf7tn?entry=tts&g_ep=EgoyMDI0MTAyOS4wIPu8ASoASAFQAw%3D%3D",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "registration_link": "https://lu.ma/uwke4v46",
+  "website_link": "https://lu.ma/uwke4v46",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "is_hidden": false,
+  "conference": "labweek-24-web3",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2024-11-11T08:33:24.410Z",
+  "updatedAt": "2024-11-11T08:33:24.410Z"
+}
