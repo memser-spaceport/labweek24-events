@@ -1,0 +1,122 @@
+{
+  "event_contact_name": "Bitroot",
+  "event_contact_email": "bitroot2024@gmail.com",
+  "secondary_contacts": [],
+  "event_name": "Bitroot:Bitcoin CeDefi Eco Meetup",
+  "event_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730801757951_584.jpeg",
+  "host": "BITROOT",
+  "host_logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730802715716_679.jpeg",
+  "co_hosts": [],
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">Bitroot Leads Bitcoin Innovation: Thailand Summit 2024 Bitcoin Ecosystem Conference Preview</span></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​In November 2024, Bitroot, in collaboration with Moore Labs, will co-host a Bitcoin Ecosystem Conference, showcasing Bitcoin’s foundational role in blockchain innovation.</span></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​The \"Bitroot: Bitcoin CeDeFi Eco Meetup\" will gather elite Bitcoin projects from around the world to discuss Bitcoin's potential in decentralized finance (DeFi). The conference will serve as a key platform for technical exchanges and will push forward the development of the Bitcoin ecosystem.</span><br></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​Key Highlights of the Conference:</span></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​&nbsp;1. Gathering of Industry Leaders The conference will bring together experts and leaders from various Bitcoin-focused projects to share their latest developments and insights. These projects cover critical areas like Layer 2 scaling, decentralized wallets, and innovative DeFi solutions.</span></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​&nbsp;2. In-Depth Technical Insights Attendees will gain valuable technical knowledge through presentations on Bitcoin scalability and the integration of virtual machines.</span></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​&nbsp;3. Roundtable Forums The summit will feature roundtable discussions where participants can engage directly with industry leaders to explore opportunities and challenges within the Bitcoin ecosystem, sparking new ideas and collaborations.</span></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​&nbsp;4. Cross-Project Collaboration The event will foster cooperation between projects across Bitcoin’s ecosystem, focusing on Layer 2 solutions, decentralized identity, cross-chain technology, and new Bitcoin DeFi applications.</span></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​&nbsp;5. Global Perspective With participants from across the globe, the conference will provide insights into market trends and regulatory environments, offering a comprehensive view of Bitcoin’s future.</span></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​Conference Details:</span></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​&nbsp;• Date: November 13, 2024</span></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​&nbsp;• IMPACT Challenger Building Popular 1 Rd, Pak Kret District, Nonthaburi 11120 （Room 204）</span></p><p class=\"editor-paragraph\" dir=\"ltr\" style=\"text-align: start;\"><span style=\"white-space: pre-wrap;\">​&nbsp;• Participation: Free, Registration only</span></p>",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2024-11-13T06:00:00.000Z",
+  "end_date": "2024-11-13T11:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "IMPACT Challenger Building Popular 1 Rd, Pak Kret District, Nonthaburi 11120 （Room 204）",
+  "location_url": "https://www.google.com/maps/search/IMPACT+Challenger+Building+Popular+1+Rd,+Pak+Kret+District,+Nonthaburi+11120+%EF%BC%88Room+204%EF%BC%89/@13.9127921,100.5465361,17z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI0MTAyOS4wIKXMDSoASAFQAw%3D%3D",
+  "meeting_platform": "",
+  "seat_count": "100-200",
+  "registration_link": "https://lu.ma/grq15j39",
+  "website_link": "https://lu.ma/grq15j39",
+  "agenda": {
+    "sessions": []
+  },
+  "sponsors": [
+    {
+      "name": "BITROOT",
+      "logo": "https://pl-events-service-prod.s3.us-west-1.amazonaws.com/logos/image_1730802653650_529.jpeg"
+    }
+  ],
+  "contact_infos": {
+    "twitter": [
+      "https://x.com/Bitroot_"
+    ]
+  },
+  "is_featured": false,
+  "is_hidden": false,
+  "conference": "labweek-24-web3",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2024-11-05T10:32:02.329Z",
+  "updatedAt": "2024-11-05T10:32:02.329Z"
+}
