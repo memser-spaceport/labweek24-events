@@ -1,0 +1,122 @@
+{
+  "event_contact_name": "Jose Quesada",
+  "event_contact_email": "me@josequesada.com",
+  "secondary_contacts": [
+    {
+      "name": "Anselm Tam",
+      "email": "anselm@gruiform.com"
+    }
+  ],
+  "event_name": "Debugging your thinking, or why prompt engineering is not enough",
+  "event_logo": "",
+  "host": "Data Science Retreat",
+  "host_logo": "",
+  "co_hosts": [],
+  "description": "<p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Large language models (LLMs), online influencers, and even founders, all make various claims that need validation.</span></p><p class=\"editor-paragraph\"><br></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">But let’s be honest—when we believe a claim, it’s rarely because we’ve carefully verified it ourselves!</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">In this session, we’ll play a game. Bring any claim you’d like to test—maybe it’s something an LLM generated, a hypothesis for your business, or even a personal belief.</span></p><p class=\"editor-paragraph\"><br></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">Together, we’ll apply the modern methods of practical reasoning we teach at Data Science Retreat (DSR). These methods use logic to tackle real, messy arguments, like the ones we encounter online every day.</span></p><p class=\"editor-paragraph\"><br></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">2pm-3pm Introduction: Did Vikings have Tattoos?</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">3pm-3:20pm audience claim #1 </span></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">3:20pm-3:40pm audience claim #2</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">3:40pm-4:00pm audience claim #3</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">4:00pm-4:20pm audience claim #4</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">4:20pm-4:40pm audience claim #5</span></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">4:40pm-5:00pm closing discussion on practical reasoning and epistemic collapse</span></p><p class=\"editor-paragraph\"><br></p><p class=\"editor-paragraph\" dir=\"ltr\"><span style=\"white-space: pre-wrap;\">DSR (Berlin, Germany) is the longest-running, most advanced AI course in Europe. We are developing a new course, 'AI-enhanced consultant' that covers methods to debug your thinking</span></p>",
+  "tags": [
+    "Talks & Presentation"
+  ],
+  "start_date": "2024-11-14T07:00:00.000Z",
+  "end_date": "2024-11-14T10:00:00.000Z",
+  "access_type": "CUSTOM_REGISTRATION",
+  "access_option": "OPEN",
+  "format": "IN-PERSON",
+  "location": "6/1 Soi Pradipat",
+  "meeting_platform": "",
+  "seat_count": "1-50",
+  "agenda": {
+    "sessions": [
+      {
+        "name": "Debugging your thinking, or why prompt engineering",
+        "description": "\nLarge language models (LLMs), online influencers, and even founders, all make various claims that need validation.\n\nBut let’s be honest—when we believe a claim, it’s rarely because we’ve carefully verified it ourselves!\nIn this session, we’ll play a game. Bring any claim you’d like to test—maybe it’s something an LLM generated, a hypothesis for your business, or even a personal belief.\n\nTogether, we’ll apply the modern methods of practical reasoning we teach at Data Science Retreat (DSR). These methods use logic to tackle real, messy arguments, like the ones we encounter online every day.\n",
+        "start_date": "2024-11-14T07:00:00.000Z",
+        "end_date": "2024-11-14T10:00:00.000Z"
+      }
+    ]
+  },
+  "sponsors": [],
+  "is_featured": false,
+  "is_hidden": false,
+  "conference": "labweek-24-web3",
+  "nft_ticketing": {
+    "host_wallet_address": "",
+    "verifier_wallet_addresses": [],
+    "verifier_email_addresses": [],
+    "custom_event_URL": "",
+    "pattern": 1,
+    "hide_event_logo": false,
+    "hide_attendees": false,
+    "ticketing_provider": "UNLOCK",
+    "default_fields": [],
+    "additional_fields": [
+      {
+        "order": 1,
+        "type": "text",
+        "name": "company",
+        "label": "Team or Project",
+        "key": "company",
+        "value": 0,
+        "placeholder_text": "Name of the Team or Project"
+      },
+      {
+        "order": 2,
+        "type": "text",
+        "name": "job_itle",
+        "label": "Job Title",
+        "key": "job_title",
+        "value": 0,
+        "placeholder_text": "Current Job Title or Position"
+      },
+      {
+        "order": 3,
+        "type": "text",
+        "name": "telegram",
+        "label": "Telegram",
+        "key": "telegram",
+        "value": 0,
+        "placeholder_text": "Telegram Handle/URL"
+      },
+      {
+        "order": 4,
+        "type": "text",
+        "name": "twitter",
+        "label": "Twitter",
+        "key": "twitter",
+        "value": 0,
+        "placeholder_text": "Twitter Handle/URL"
+      },
+      {
+        "order": 5,
+        "type": "text",
+        "name": "dietary_restrictions",
+        "label": "Dietary Restrictions",
+        "key": "dietary_restrictions",
+        "value": 0,
+        "placeholder_text": "Enter Any Food Allergies or Restrictions"
+      },
+      {
+        "order": 6,
+        "type": "text",
+        "name": "wallet_address",
+        "label": "Wallet Address",
+        "key": "wallet_address",
+        "value": 1,
+        "placeholder_text": "Enter FEVM, ETH Address or ENS"
+      },
+      {
+        "order": 8,
+        "type": "checkbox",
+        "name": "communication_consent",
+        "label": "I agree to receive communication from Protocol Labs",
+        "key": "communication_consent",
+        "value": 1,
+        "placeholder_text": "I agree to receive communication from Protocol Labs",
+        "alt": "GDPR Consent (yes/no)"
+      }
+    ],
+    "custom_fields": []
+  },
+  "createdAt": "2024-11-11T19:51:05.785Z",
+  "updatedAt": "2024-11-11T20:03:36.270Z",
+  "location_url": "https://maps.app.goo.gl/4xo2UfNAWif6JCDAA"
+}
